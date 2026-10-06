@@ -43,7 +43,7 @@ Ambas serão tratadas no codebook v1.
 
 ## Roteiro
 
-1. Codebook de indicadores (mesmo número de indicadores nas 6 DAs).
+1. Codebook de indicadores (`docs/codebook_v1.xlsx`, rascunho v1 com 24 indicadores, 4 por DA).
 2. Base versionada com evidência por célula.
 3. TOPSIS crisp (v0.1), depois Fuzzy-TOPSIS e pesos por BWM com especialistas.
 4. Camada de explicação por IA generativa (QP3.1).
