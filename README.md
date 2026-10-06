@@ -37,7 +37,7 @@ Limitações conhecidas da v0:
 - algumas células foram estimadas por consistência aritmética, marcadas na coluna `observacoes`;
 - os critérios de extração variaram entre relatórios (por exemplo, percentual de resíduos reciclados calculado a partir de dados brutos em um ano e marcado como não reportado em outro), o que cria variações artificiais, como a da Neoenergia entre 2022 e 2023.
 
-Correção já feita: Energisa 2024, DA-VI de 0,75 para 1,00 (a dimensão tem 3 indicadores, então 0,75 era impossível).
+Correções já feitas na auditoria de 06/10/2026 (detalhes em `docs/auditoria_matriz_v0.md`): Energisa 2024 DA-VI (0,75 para 1,00), Statkraft 2022 DA-III (0,25 para 0,75), Neoenergia 2022 DA-II (0,25 para 0,50) e Petrobras 2023 DA-III (0,75 para 1,00).
 
 Ambas serão tratadas no codebook v1.
 
