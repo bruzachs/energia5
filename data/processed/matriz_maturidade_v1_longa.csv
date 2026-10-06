@@ -1,0 +1,601 @@
+empresa,ano,DA,indicador,tipo,valor,calculado,escopo,relatorio_arquivo,pagina,trecho_literal,data_acesso,codificador,observacao,prioridade,DA_v0_referencia,padrao_relatorio_v0,chat_origem
+Energisa,2021,DA-I,DA1_planos_contingencia,Q,,,,,,,,,,1,0.75,GRI + SASB + COP Pacto Global,https://claude.ai/chat/2051fb55-029d-4c84-a99b-6c9d939e454c
+Energisa,2021,DA-I,DA1_pct_renovavel,C,,,,,,,,,,1,0.75,GRI + SASB + COP Pacto Global,https://claude.ai/chat/2051fb55-029d-4c84-a99b-6c9d939e454c
+Energisa,2021,DA-I,DA1_armazenamento,C,,,,,,,,,,1,0.75,GRI + SASB + COP Pacto Global,https://claude.ai/chat/2051fb55-029d-4c84-a99b-6c9d939e454c
+Energisa,2021,DA-I,DA1_disponibilidade,C,,,,,,,,,,1,0.75,GRI + SASB + COP Pacto Global,https://claude.ai/chat/2051fb55-029d-4c84-a99b-6c9d939e454c
+Energisa,2021,DA-II,DA2_capex,C,,,,,,,,,,1,0.0,GRI + SASB + COP Pacto Global,https://claude.ai/chat/2051fb55-029d-4c84-a99b-6c9d939e454c
+Energisa,2021,DA-II,DA2_opex,C,,,,,,,,,,1,0.0,GRI + SASB + COP Pacto Global,https://claude.ai/chat/2051fb55-029d-4c84-a99b-6c9d939e454c
+Energisa,2021,DA-II,DA2_lcoe,C,,,,,,,,,,1,0.0,GRI + SASB + COP Pacto Global,https://claude.ai/chat/2051fb55-029d-4c84-a99b-6c9d939e454c
+Energisa,2021,DA-II,DA2_decisao_multicriterio,Q,,,,,,,,,,1,0.0,GRI + SASB + COP Pacto Global,https://claude.ai/chat/2051fb55-029d-4c84-a99b-6c9d939e454c
+Energisa,2021,DA-III,DA3_horas_treinamento,C,,,,,,,,,,2,1.0,GRI + SASB + COP Pacto Global,https://claude.ai/chat/2051fb55-029d-4c84-a99b-6c9d939e454c
+Energisa,2021,DA-III,DA3_taxa_acidentes,C,,,,,,,,,,2,1.0,GRI + SASB + COP Pacto Global,https://claude.ai/chat/2051fb55-029d-4c84-a99b-6c9d939e454c
+Energisa,2021,DA-III,DA3_empregos_locais,C,,,,,,,,,,2,1.0,GRI + SASB + COP Pacto Global,https://claude.ai/chat/2051fb55-029d-4c84-a99b-6c9d939e454c
+Energisa,2021,DA-III,DA3_consulta_comunitaria,Q,,,,,,,,,,2,1.0,GRI + SASB + COP Pacto Global,https://claude.ai/chat/2051fb55-029d-4c84-a99b-6c9d939e454c
+Energisa,2021,DA-IV,DA4_digital_twin,Q,,,,,,,,,,2,0.75,GRI + SASB + COP Pacto Global,https://claude.ai/chat/2051fb55-029d-4c84-a99b-6c9d939e454c
+Energisa,2021,DA-IV,DA4_telemedicao_automacao,C,,,,,,,,,,2,0.75,GRI + SASB + COP Pacto Global,https://claude.ai/chat/2051fb55-029d-4c84-a99b-6c9d939e454c
+Energisa,2021,DA-IV,DA4_ia_preditiva,Q,,,,,,,,,,2,0.75,GRI + SASB + COP Pacto Global,https://claude.ai/chat/2051fb55-029d-4c84-a99b-6c9d939e454c
+Energisa,2021,DA-IV,DA4_ciberseguranca,C,,,,,,,,,,2,0.75,GRI + SASB + COP Pacto Global,https://claude.ai/chat/2051fb55-029d-4c84-a99b-6c9d939e454c
+Energisa,2021,DA-V,DA5_emissoes_ghg,C,,,,,,,,,,2,0.75,GRI + SASB + COP Pacto Global,https://claude.ai/chat/2051fb55-029d-4c84-a99b-6c9d939e454c
+Energisa,2021,DA-V,DA5_agua,C,,,,,,,,,,2,0.75,GRI + SASB + COP Pacto Global,https://claude.ai/chat/2051fb55-029d-4c84-a99b-6c9d939e454c
+Energisa,2021,DA-V,DA5_residuos_reciclados,C,,,,,,,,,,2,0.75,GRI + SASB + COP Pacto Global,https://claude.ai/chat/2051fb55-029d-4c84-a99b-6c9d939e454c
+Energisa,2021,DA-V,DA5_meta_neutralidade,C,,,,,,,,,,2,0.75,GRI + SASB + COP Pacto Global,https://claude.ai/chat/2051fb55-029d-4c84-a99b-6c9d939e454c
+Energisa,2021,DA-VI,DA6_incentivos,C,,,,,,,,,,2,1.0,GRI + SASB + COP Pacto Global,https://claude.ai/chat/2051fb55-029d-4c84-a99b-6c9d939e454c
+Energisa,2021,DA-VI,DA6_parcerias,C,,,,,,,,,,2,1.0,GRI + SASB + COP Pacto Global,https://claude.ai/chat/2051fb55-029d-4c84-a99b-6c9d939e454c
+Energisa,2021,DA-VI,DA6_barreiras_regulatorias,Q,,,,,,,,,,2,1.0,GRI + SASB + COP Pacto Global,https://claude.ai/chat/2051fb55-029d-4c84-a99b-6c9d939e454c
+Energisa,2021,DA-VI,DA6_investimento_pd,C,,,,,,,,,,2,1.0,GRI + SASB + COP Pacto Global,https://claude.ai/chat/2051fb55-029d-4c84-a99b-6c9d939e454c
+Energisa,2022,DA-I,DA1_planos_contingencia,Q,,,,,,,,,,1,0.75,Relato integrado com diretrizes GRI; verificação KPMG,https://claude.ai/chat/759905e8-9ab7-44b9-8965-6b7b21fc331b
+Energisa,2022,DA-I,DA1_pct_renovavel,C,,,,,,,,,,1,0.75,Relato integrado com diretrizes GRI; verificação KPMG,https://claude.ai/chat/759905e8-9ab7-44b9-8965-6b7b21fc331b
+Energisa,2022,DA-I,DA1_armazenamento,C,,,,,,,,,,1,0.75,Relato integrado com diretrizes GRI; verificação KPMG,https://claude.ai/chat/759905e8-9ab7-44b9-8965-6b7b21fc331b
+Energisa,2022,DA-I,DA1_disponibilidade,C,,,,,,,,,,1,0.75,Relato integrado com diretrizes GRI; verificação KPMG,https://claude.ai/chat/759905e8-9ab7-44b9-8965-6b7b21fc331b
+Energisa,2022,DA-II,DA2_capex,C,,,,,,,,,,1,0.25,Relato integrado com diretrizes GRI; verificação KPMG,https://claude.ai/chat/759905e8-9ab7-44b9-8965-6b7b21fc331b
+Energisa,2022,DA-II,DA2_opex,C,,,,,,,,,,1,0.25,Relato integrado com diretrizes GRI; verificação KPMG,https://claude.ai/chat/759905e8-9ab7-44b9-8965-6b7b21fc331b
+Energisa,2022,DA-II,DA2_lcoe,C,,,,,,,,,,1,0.25,Relato integrado com diretrizes GRI; verificação KPMG,https://claude.ai/chat/759905e8-9ab7-44b9-8965-6b7b21fc331b
+Energisa,2022,DA-II,DA2_decisao_multicriterio,Q,,,,,,,,,,1,0.25,Relato integrado com diretrizes GRI; verificação KPMG,https://claude.ai/chat/759905e8-9ab7-44b9-8965-6b7b21fc331b
+Energisa,2022,DA-III,DA3_horas_treinamento,C,,,,,,,,,,2,0.75,Relato integrado com diretrizes GRI; verificação KPMG,https://claude.ai/chat/759905e8-9ab7-44b9-8965-6b7b21fc331b
+Energisa,2022,DA-III,DA3_taxa_acidentes,C,,,,,,,,,,2,0.75,Relato integrado com diretrizes GRI; verificação KPMG,https://claude.ai/chat/759905e8-9ab7-44b9-8965-6b7b21fc331b
+Energisa,2022,DA-III,DA3_empregos_locais,C,,,,,,,,,,2,0.75,Relato integrado com diretrizes GRI; verificação KPMG,https://claude.ai/chat/759905e8-9ab7-44b9-8965-6b7b21fc331b
+Energisa,2022,DA-III,DA3_consulta_comunitaria,Q,,,,,,,,,,2,0.75,Relato integrado com diretrizes GRI; verificação KPMG,https://claude.ai/chat/759905e8-9ab7-44b9-8965-6b7b21fc331b
+Energisa,2022,DA-IV,DA4_digital_twin,Q,,,,,,,,,,2,0.5,Relato integrado com diretrizes GRI; verificação KPMG,https://claude.ai/chat/759905e8-9ab7-44b9-8965-6b7b21fc331b
+Energisa,2022,DA-IV,DA4_telemedicao_automacao,C,,,,,,,,,,2,0.5,Relato integrado com diretrizes GRI; verificação KPMG,https://claude.ai/chat/759905e8-9ab7-44b9-8965-6b7b21fc331b
+Energisa,2022,DA-IV,DA4_ia_preditiva,Q,,,,,,,,,,2,0.5,Relato integrado com diretrizes GRI; verificação KPMG,https://claude.ai/chat/759905e8-9ab7-44b9-8965-6b7b21fc331b
+Energisa,2022,DA-IV,DA4_ciberseguranca,C,,,,,,,,,,2,0.5,Relato integrado com diretrizes GRI; verificação KPMG,https://claude.ai/chat/759905e8-9ab7-44b9-8965-6b7b21fc331b
+Energisa,2022,DA-V,DA5_emissoes_ghg,C,,,,,,,,,,2,0.75,Relato integrado com diretrizes GRI; verificação KPMG,https://claude.ai/chat/759905e8-9ab7-44b9-8965-6b7b21fc331b
+Energisa,2022,DA-V,DA5_agua,C,,,,,,,,,,2,0.75,Relato integrado com diretrizes GRI; verificação KPMG,https://claude.ai/chat/759905e8-9ab7-44b9-8965-6b7b21fc331b
+Energisa,2022,DA-V,DA5_residuos_reciclados,C,,,,,,,,,,2,0.75,Relato integrado com diretrizes GRI; verificação KPMG,https://claude.ai/chat/759905e8-9ab7-44b9-8965-6b7b21fc331b
+Energisa,2022,DA-V,DA5_meta_neutralidade,C,,,,,,,,,,2,0.75,Relato integrado com diretrizes GRI; verificação KPMG,https://claude.ai/chat/759905e8-9ab7-44b9-8965-6b7b21fc331b
+Energisa,2022,DA-VI,DA6_incentivos,C,,,,,,,,,,2,1.0,Relato integrado com diretrizes GRI; verificação KPMG,https://claude.ai/chat/759905e8-9ab7-44b9-8965-6b7b21fc331b
+Energisa,2022,DA-VI,DA6_parcerias,C,,,,,,,,,,2,1.0,Relato integrado com diretrizes GRI; verificação KPMG,https://claude.ai/chat/759905e8-9ab7-44b9-8965-6b7b21fc331b
+Energisa,2022,DA-VI,DA6_barreiras_regulatorias,Q,,,,,,,,,,2,1.0,Relato integrado com diretrizes GRI; verificação KPMG,https://claude.ai/chat/759905e8-9ab7-44b9-8965-6b7b21fc331b
+Energisa,2022,DA-VI,DA6_investimento_pd,C,,,,,,,,,,2,1.0,Relato integrado com diretrizes GRI; verificação KPMG,https://claude.ai/chat/759905e8-9ab7-44b9-8965-6b7b21fc331b
+Energisa,2023,DA-I,DA1_planos_contingencia,Q,,,,,,,,,,1,0.5,GRI Standards + GRI 1 (2021); Selo Ouro FGV,https://claude.ai/chat/cfec6dae-544c-40f1-b0dd-ef8a9867133e
+Energisa,2023,DA-I,DA1_pct_renovavel,C,,,,,,,,,,1,0.5,GRI Standards + GRI 1 (2021); Selo Ouro FGV,https://claude.ai/chat/cfec6dae-544c-40f1-b0dd-ef8a9867133e
+Energisa,2023,DA-I,DA1_armazenamento,C,,,,,,,,,,1,0.5,GRI Standards + GRI 1 (2021); Selo Ouro FGV,https://claude.ai/chat/cfec6dae-544c-40f1-b0dd-ef8a9867133e
+Energisa,2023,DA-I,DA1_disponibilidade,C,,,,,,,,,,1,0.5,GRI Standards + GRI 1 (2021); Selo Ouro FGV,https://claude.ai/chat/cfec6dae-544c-40f1-b0dd-ef8a9867133e
+Energisa,2023,DA-II,DA2_capex,C,,,,,,,,,,1,0.5,GRI Standards + GRI 1 (2021); Selo Ouro FGV,https://claude.ai/chat/cfec6dae-544c-40f1-b0dd-ef8a9867133e
+Energisa,2023,DA-II,DA2_opex,C,,,,,,,,,,1,0.5,GRI Standards + GRI 1 (2021); Selo Ouro FGV,https://claude.ai/chat/cfec6dae-544c-40f1-b0dd-ef8a9867133e
+Energisa,2023,DA-II,DA2_lcoe,C,,,,,,,,,,1,0.5,GRI Standards + GRI 1 (2021); Selo Ouro FGV,https://claude.ai/chat/cfec6dae-544c-40f1-b0dd-ef8a9867133e
+Energisa,2023,DA-II,DA2_decisao_multicriterio,Q,,,,,,,,,,1,0.5,GRI Standards + GRI 1 (2021); Selo Ouro FGV,https://claude.ai/chat/cfec6dae-544c-40f1-b0dd-ef8a9867133e
+Energisa,2023,DA-III,DA3_horas_treinamento,C,,,,,,,,,,2,0.75,GRI Standards + GRI 1 (2021); Selo Ouro FGV,https://claude.ai/chat/cfec6dae-544c-40f1-b0dd-ef8a9867133e
+Energisa,2023,DA-III,DA3_taxa_acidentes,C,,,,,,,,,,2,0.75,GRI Standards + GRI 1 (2021); Selo Ouro FGV,https://claude.ai/chat/cfec6dae-544c-40f1-b0dd-ef8a9867133e
+Energisa,2023,DA-III,DA3_empregos_locais,C,,,,,,,,,,2,0.75,GRI Standards + GRI 1 (2021); Selo Ouro FGV,https://claude.ai/chat/cfec6dae-544c-40f1-b0dd-ef8a9867133e
+Energisa,2023,DA-III,DA3_consulta_comunitaria,Q,,,,,,,,,,2,0.75,GRI Standards + GRI 1 (2021); Selo Ouro FGV,https://claude.ai/chat/cfec6dae-544c-40f1-b0dd-ef8a9867133e
+Energisa,2023,DA-IV,DA4_digital_twin,Q,,,,,,,,,,2,0.75,GRI Standards + GRI 1 (2021); Selo Ouro FGV,https://claude.ai/chat/cfec6dae-544c-40f1-b0dd-ef8a9867133e
+Energisa,2023,DA-IV,DA4_telemedicao_automacao,C,,,,,,,,,,2,0.75,GRI Standards + GRI 1 (2021); Selo Ouro FGV,https://claude.ai/chat/cfec6dae-544c-40f1-b0dd-ef8a9867133e
+Energisa,2023,DA-IV,DA4_ia_preditiva,Q,,,,,,,,,,2,0.75,GRI Standards + GRI 1 (2021); Selo Ouro FGV,https://claude.ai/chat/cfec6dae-544c-40f1-b0dd-ef8a9867133e
+Energisa,2023,DA-IV,DA4_ciberseguranca,C,,,,,,,,,,2,0.75,GRI Standards + GRI 1 (2021); Selo Ouro FGV,https://claude.ai/chat/cfec6dae-544c-40f1-b0dd-ef8a9867133e
+Energisa,2023,DA-V,DA5_emissoes_ghg,C,,,,,,,,,,2,0.5,GRI Standards + GRI 1 (2021); Selo Ouro FGV,https://claude.ai/chat/cfec6dae-544c-40f1-b0dd-ef8a9867133e
+Energisa,2023,DA-V,DA5_agua,C,,,,,,,,,,2,0.5,GRI Standards + GRI 1 (2021); Selo Ouro FGV,https://claude.ai/chat/cfec6dae-544c-40f1-b0dd-ef8a9867133e
+Energisa,2023,DA-V,DA5_residuos_reciclados,C,,,,,,,,,,2,0.5,GRI Standards + GRI 1 (2021); Selo Ouro FGV,https://claude.ai/chat/cfec6dae-544c-40f1-b0dd-ef8a9867133e
+Energisa,2023,DA-V,DA5_meta_neutralidade,C,,,,,,,,,,2,0.5,GRI Standards + GRI 1 (2021); Selo Ouro FGV,https://claude.ai/chat/cfec6dae-544c-40f1-b0dd-ef8a9867133e
+Energisa,2023,DA-VI,DA6_incentivos,C,,,,,,,,,,2,1.0,GRI Standards + GRI 1 (2021); Selo Ouro FGV,https://claude.ai/chat/cfec6dae-544c-40f1-b0dd-ef8a9867133e
+Energisa,2023,DA-VI,DA6_parcerias,C,,,,,,,,,,2,1.0,GRI Standards + GRI 1 (2021); Selo Ouro FGV,https://claude.ai/chat/cfec6dae-544c-40f1-b0dd-ef8a9867133e
+Energisa,2023,DA-VI,DA6_barreiras_regulatorias,Q,,,,,,,,,,2,1.0,GRI Standards + GRI 1 (2021); Selo Ouro FGV,https://claude.ai/chat/cfec6dae-544c-40f1-b0dd-ef8a9867133e
+Energisa,2023,DA-VI,DA6_investimento_pd,C,,,,,,,,,,2,1.0,GRI Standards + GRI 1 (2021); Selo Ouro FGV,https://claude.ai/chat/cfec6dae-544c-40f1-b0dd-ef8a9867133e
+Energisa,2024,DA-I,DA1_planos_contingencia,Q,,,,,,,,,,1,0.5,GRI Standards 2021,https://claude.ai/chat/7146b427-2a49-41b7-aa95-e64aa9ace1da
+Energisa,2024,DA-I,DA1_pct_renovavel,C,,,,,,,,,,1,0.5,GRI Standards 2021,https://claude.ai/chat/7146b427-2a49-41b7-aa95-e64aa9ace1da
+Energisa,2024,DA-I,DA1_armazenamento,C,,,,,,,,,,1,0.5,GRI Standards 2021,https://claude.ai/chat/7146b427-2a49-41b7-aa95-e64aa9ace1da
+Energisa,2024,DA-I,DA1_disponibilidade,C,,,,,,,,,,1,0.5,GRI Standards 2021,https://claude.ai/chat/7146b427-2a49-41b7-aa95-e64aa9ace1da
+Energisa,2024,DA-II,DA2_capex,C,,,,,,,,,,1,0.25,GRI Standards 2021,https://claude.ai/chat/7146b427-2a49-41b7-aa95-e64aa9ace1da
+Energisa,2024,DA-II,DA2_opex,C,,,,,,,,,,1,0.25,GRI Standards 2021,https://claude.ai/chat/7146b427-2a49-41b7-aa95-e64aa9ace1da
+Energisa,2024,DA-II,DA2_lcoe,C,,,,,,,,,,1,0.25,GRI Standards 2021,https://claude.ai/chat/7146b427-2a49-41b7-aa95-e64aa9ace1da
+Energisa,2024,DA-II,DA2_decisao_multicriterio,Q,,,,,,,,,,1,0.25,GRI Standards 2021,https://claude.ai/chat/7146b427-2a49-41b7-aa95-e64aa9ace1da
+Energisa,2024,DA-III,DA3_horas_treinamento,C,,,,,,,,,,2,0.75,GRI Standards 2021,https://claude.ai/chat/7146b427-2a49-41b7-aa95-e64aa9ace1da
+Energisa,2024,DA-III,DA3_taxa_acidentes,C,,,,,,,,,,2,0.75,GRI Standards 2021,https://claude.ai/chat/7146b427-2a49-41b7-aa95-e64aa9ace1da
+Energisa,2024,DA-III,DA3_empregos_locais,C,,,,,,,,,,2,0.75,GRI Standards 2021,https://claude.ai/chat/7146b427-2a49-41b7-aa95-e64aa9ace1da
+Energisa,2024,DA-III,DA3_consulta_comunitaria,Q,,,,,,,,,,2,0.75,GRI Standards 2021,https://claude.ai/chat/7146b427-2a49-41b7-aa95-e64aa9ace1da
+Energisa,2024,DA-IV,DA4_digital_twin,Q,,,,,,,,,,2,0.75,GRI Standards 2021,https://claude.ai/chat/7146b427-2a49-41b7-aa95-e64aa9ace1da
+Energisa,2024,DA-IV,DA4_telemedicao_automacao,C,,,,,,,,,,2,0.75,GRI Standards 2021,https://claude.ai/chat/7146b427-2a49-41b7-aa95-e64aa9ace1da
+Energisa,2024,DA-IV,DA4_ia_preditiva,Q,,,,,,,,,,2,0.75,GRI Standards 2021,https://claude.ai/chat/7146b427-2a49-41b7-aa95-e64aa9ace1da
+Energisa,2024,DA-IV,DA4_ciberseguranca,C,,,,,,,,,,2,0.75,GRI Standards 2021,https://claude.ai/chat/7146b427-2a49-41b7-aa95-e64aa9ace1da
+Energisa,2024,DA-V,DA5_emissoes_ghg,C,,,,,,,,,,2,0.25,GRI Standards 2021,https://claude.ai/chat/7146b427-2a49-41b7-aa95-e64aa9ace1da
+Energisa,2024,DA-V,DA5_agua,C,,,,,,,,,,2,0.25,GRI Standards 2021,https://claude.ai/chat/7146b427-2a49-41b7-aa95-e64aa9ace1da
+Energisa,2024,DA-V,DA5_residuos_reciclados,C,,,,,,,,,,2,0.25,GRI Standards 2021,https://claude.ai/chat/7146b427-2a49-41b7-aa95-e64aa9ace1da
+Energisa,2024,DA-V,DA5_meta_neutralidade,C,,,,,,,,,,2,0.25,GRI Standards 2021,https://claude.ai/chat/7146b427-2a49-41b7-aa95-e64aa9ace1da
+Energisa,2024,DA-VI,DA6_incentivos,C,,,,,,,,,,2,1.0,GRI Standards 2021,https://claude.ai/chat/7146b427-2a49-41b7-aa95-e64aa9ace1da
+Energisa,2024,DA-VI,DA6_parcerias,C,,,,,,,,,,2,1.0,GRI Standards 2021,https://claude.ai/chat/7146b427-2a49-41b7-aa95-e64aa9ace1da
+Energisa,2024,DA-VI,DA6_barreiras_regulatorias,Q,,,,,,,,,,2,1.0,GRI Standards 2021,https://claude.ai/chat/7146b427-2a49-41b7-aa95-e64aa9ace1da
+Energisa,2024,DA-VI,DA6_investimento_pd,C,,,,,,,,,,2,1.0,GRI Standards 2021,https://claude.ai/chat/7146b427-2a49-41b7-aa95-e64aa9ace1da
+Energisa,2025,DA-I,DA1_planos_contingencia,Q,,,,,,,,,,1,0.5,GRI Standards 2021; verificação SGS Brasil (ISAE 3000),https://claude.ai/chat/c2168c02-8745-4576-8067-538f84e06bb1
+Energisa,2025,DA-I,DA1_pct_renovavel,C,,,,,,,,,,1,0.5,GRI Standards 2021; verificação SGS Brasil (ISAE 3000),https://claude.ai/chat/c2168c02-8745-4576-8067-538f84e06bb1
+Energisa,2025,DA-I,DA1_armazenamento,C,,,,,,,,,,1,0.5,GRI Standards 2021; verificação SGS Brasil (ISAE 3000),https://claude.ai/chat/c2168c02-8745-4576-8067-538f84e06bb1
+Energisa,2025,DA-I,DA1_disponibilidade,C,,,,,,,,,,1,0.5,GRI Standards 2021; verificação SGS Brasil (ISAE 3000),https://claude.ai/chat/c2168c02-8745-4576-8067-538f84e06bb1
+Energisa,2025,DA-II,DA2_capex,C,,,,,,,,,,1,0.25,GRI Standards 2021; verificação SGS Brasil (ISAE 3000),https://claude.ai/chat/c2168c02-8745-4576-8067-538f84e06bb1
+Energisa,2025,DA-II,DA2_opex,C,,,,,,,,,,1,0.25,GRI Standards 2021; verificação SGS Brasil (ISAE 3000),https://claude.ai/chat/c2168c02-8745-4576-8067-538f84e06bb1
+Energisa,2025,DA-II,DA2_lcoe,C,,,,,,,,,,1,0.25,GRI Standards 2021; verificação SGS Brasil (ISAE 3000),https://claude.ai/chat/c2168c02-8745-4576-8067-538f84e06bb1
+Energisa,2025,DA-II,DA2_decisao_multicriterio,Q,,,,,,,,,,1,0.25,GRI Standards 2021; verificação SGS Brasil (ISAE 3000),https://claude.ai/chat/c2168c02-8745-4576-8067-538f84e06bb1
+Energisa,2025,DA-III,DA3_horas_treinamento,C,,,,,,,,,,2,0.75,GRI Standards 2021; verificação SGS Brasil (ISAE 3000),https://claude.ai/chat/c2168c02-8745-4576-8067-538f84e06bb1
+Energisa,2025,DA-III,DA3_taxa_acidentes,C,,,,,,,,,,2,0.75,GRI Standards 2021; verificação SGS Brasil (ISAE 3000),https://claude.ai/chat/c2168c02-8745-4576-8067-538f84e06bb1
+Energisa,2025,DA-III,DA3_empregos_locais,C,,,,,,,,,,2,0.75,GRI Standards 2021; verificação SGS Brasil (ISAE 3000),https://claude.ai/chat/c2168c02-8745-4576-8067-538f84e06bb1
+Energisa,2025,DA-III,DA3_consulta_comunitaria,Q,,,,,,,,,,2,0.75,GRI Standards 2021; verificação SGS Brasil (ISAE 3000),https://claude.ai/chat/c2168c02-8745-4576-8067-538f84e06bb1
+Energisa,2025,DA-IV,DA4_digital_twin,Q,,,,,,,,,,2,0.5,GRI Standards 2021; verificação SGS Brasil (ISAE 3000),https://claude.ai/chat/c2168c02-8745-4576-8067-538f84e06bb1
+Energisa,2025,DA-IV,DA4_telemedicao_automacao,C,,,,,,,,,,2,0.5,GRI Standards 2021; verificação SGS Brasil (ISAE 3000),https://claude.ai/chat/c2168c02-8745-4576-8067-538f84e06bb1
+Energisa,2025,DA-IV,DA4_ia_preditiva,Q,,,,,,,,,,2,0.5,GRI Standards 2021; verificação SGS Brasil (ISAE 3000),https://claude.ai/chat/c2168c02-8745-4576-8067-538f84e06bb1
+Energisa,2025,DA-IV,DA4_ciberseguranca,C,,,,,,,,,,2,0.5,GRI Standards 2021; verificação SGS Brasil (ISAE 3000),https://claude.ai/chat/c2168c02-8745-4576-8067-538f84e06bb1
+Energisa,2025,DA-V,DA5_emissoes_ghg,C,,,,,,,,,,2,0.75,GRI Standards 2021; verificação SGS Brasil (ISAE 3000),https://claude.ai/chat/c2168c02-8745-4576-8067-538f84e06bb1
+Energisa,2025,DA-V,DA5_agua,C,,,,,,,,,,2,0.75,GRI Standards 2021; verificação SGS Brasil (ISAE 3000),https://claude.ai/chat/c2168c02-8745-4576-8067-538f84e06bb1
+Energisa,2025,DA-V,DA5_residuos_reciclados,C,,,,,,,,,,2,0.75,GRI Standards 2021; verificação SGS Brasil (ISAE 3000),https://claude.ai/chat/c2168c02-8745-4576-8067-538f84e06bb1
+Energisa,2025,DA-V,DA5_meta_neutralidade,C,,,,,,,,,,2,0.75,GRI Standards 2021; verificação SGS Brasil (ISAE 3000),https://claude.ai/chat/c2168c02-8745-4576-8067-538f84e06bb1
+Energisa,2025,DA-VI,DA6_incentivos,C,,,,,,,,,,2,1.0,GRI Standards 2021; verificação SGS Brasil (ISAE 3000),https://claude.ai/chat/c2168c02-8745-4576-8067-538f84e06bb1
+Energisa,2025,DA-VI,DA6_parcerias,C,,,,,,,,,,2,1.0,GRI Standards 2021; verificação SGS Brasil (ISAE 3000),https://claude.ai/chat/c2168c02-8745-4576-8067-538f84e06bb1
+Energisa,2025,DA-VI,DA6_barreiras_regulatorias,Q,,,,,,,,,,2,1.0,GRI Standards 2021; verificação SGS Brasil (ISAE 3000),https://claude.ai/chat/c2168c02-8745-4576-8067-538f84e06bb1
+Energisa,2025,DA-VI,DA6_investimento_pd,C,,,,,,,,,,2,1.0,GRI Standards 2021; verificação SGS Brasil (ISAE 3000),https://claude.ai/chat/c2168c02-8745-4576-8067-538f84e06bb1
+ENGIE Brasil,2021,DA-I,DA1_planos_contingencia,Q,,,,,,,,,,1,0.75,GRI (opção Essential); verificação BVQI,https://claude.ai/chat/0df55a79-0afb-4500-a3e5-29f57ff10adf
+ENGIE Brasil,2021,DA-I,DA1_pct_renovavel,C,,,,,,,,,,1,0.75,GRI (opção Essential); verificação BVQI,https://claude.ai/chat/0df55a79-0afb-4500-a3e5-29f57ff10adf
+ENGIE Brasil,2021,DA-I,DA1_armazenamento,C,,,,,,,,,,1,0.75,GRI (opção Essential); verificação BVQI,https://claude.ai/chat/0df55a79-0afb-4500-a3e5-29f57ff10adf
+ENGIE Brasil,2021,DA-I,DA1_disponibilidade,C,,,,,,,,,,1,0.75,GRI (opção Essential); verificação BVQI,https://claude.ai/chat/0df55a79-0afb-4500-a3e5-29f57ff10adf
+ENGIE Brasil,2021,DA-II,DA2_capex,C,,,,,,,,,,1,0.5,GRI (opção Essential); verificação BVQI,https://claude.ai/chat/0df55a79-0afb-4500-a3e5-29f57ff10adf
+ENGIE Brasil,2021,DA-II,DA2_opex,C,,,,,,,,,,1,0.5,GRI (opção Essential); verificação BVQI,https://claude.ai/chat/0df55a79-0afb-4500-a3e5-29f57ff10adf
+ENGIE Brasil,2021,DA-II,DA2_lcoe,C,,,,,,,,,,1,0.5,GRI (opção Essential); verificação BVQI,https://claude.ai/chat/0df55a79-0afb-4500-a3e5-29f57ff10adf
+ENGIE Brasil,2021,DA-II,DA2_decisao_multicriterio,Q,,,,,,,,,,1,0.5,GRI (opção Essential); verificação BVQI,https://claude.ai/chat/0df55a79-0afb-4500-a3e5-29f57ff10adf
+ENGIE Brasil,2021,DA-III,DA3_horas_treinamento,C,,,,,,,,,,2,0.75,GRI (opção Essential); verificação BVQI,https://claude.ai/chat/0df55a79-0afb-4500-a3e5-29f57ff10adf
+ENGIE Brasil,2021,DA-III,DA3_taxa_acidentes,C,,,,,,,,,,2,0.75,GRI (opção Essential); verificação BVQI,https://claude.ai/chat/0df55a79-0afb-4500-a3e5-29f57ff10adf
+ENGIE Brasil,2021,DA-III,DA3_empregos_locais,C,,,,,,,,,,2,0.75,GRI (opção Essential); verificação BVQI,https://claude.ai/chat/0df55a79-0afb-4500-a3e5-29f57ff10adf
+ENGIE Brasil,2021,DA-III,DA3_consulta_comunitaria,Q,,,,,,,,,,2,0.75,GRI (opção Essential); verificação BVQI,https://claude.ai/chat/0df55a79-0afb-4500-a3e5-29f57ff10adf
+ENGIE Brasil,2021,DA-IV,DA4_digital_twin,Q,,,,,,,,,,2,0.25,GRI (opção Essential); verificação BVQI,https://claude.ai/chat/0df55a79-0afb-4500-a3e5-29f57ff10adf
+ENGIE Brasil,2021,DA-IV,DA4_telemedicao_automacao,C,,,,,,,,,,2,0.25,GRI (opção Essential); verificação BVQI,https://claude.ai/chat/0df55a79-0afb-4500-a3e5-29f57ff10adf
+ENGIE Brasil,2021,DA-IV,DA4_ia_preditiva,Q,,,,,,,,,,2,0.25,GRI (opção Essential); verificação BVQI,https://claude.ai/chat/0df55a79-0afb-4500-a3e5-29f57ff10adf
+ENGIE Brasil,2021,DA-IV,DA4_ciberseguranca,C,,,,,,,,,,2,0.25,GRI (opção Essential); verificação BVQI,https://claude.ai/chat/0df55a79-0afb-4500-a3e5-29f57ff10adf
+ENGIE Brasil,2021,DA-V,DA5_emissoes_ghg,C,,,,,,,,,,2,1.0,GRI (opção Essential); verificação BVQI,https://claude.ai/chat/0df55a79-0afb-4500-a3e5-29f57ff10adf
+ENGIE Brasil,2021,DA-V,DA5_agua,C,,,,,,,,,,2,1.0,GRI (opção Essential); verificação BVQI,https://claude.ai/chat/0df55a79-0afb-4500-a3e5-29f57ff10adf
+ENGIE Brasil,2021,DA-V,DA5_residuos_reciclados,C,,,,,,,,,,2,1.0,GRI (opção Essential); verificação BVQI,https://claude.ai/chat/0df55a79-0afb-4500-a3e5-29f57ff10adf
+ENGIE Brasil,2021,DA-V,DA5_meta_neutralidade,C,,,,,,,,,,2,1.0,GRI (opção Essential); verificação BVQI,https://claude.ai/chat/0df55a79-0afb-4500-a3e5-29f57ff10adf
+ENGIE Brasil,2021,DA-VI,DA6_incentivos,C,,,,,,,,,,2,0.6667,GRI (opção Essential); verificação BVQI,https://claude.ai/chat/0df55a79-0afb-4500-a3e5-29f57ff10adf
+ENGIE Brasil,2021,DA-VI,DA6_parcerias,C,,,,,,,,,,2,0.6667,GRI (opção Essential); verificação BVQI,https://claude.ai/chat/0df55a79-0afb-4500-a3e5-29f57ff10adf
+ENGIE Brasil,2021,DA-VI,DA6_barreiras_regulatorias,Q,,,,,,,,,,2,0.6667,GRI (opção Essential); verificação BVQI,https://claude.ai/chat/0df55a79-0afb-4500-a3e5-29f57ff10adf
+ENGIE Brasil,2021,DA-VI,DA6_investimento_pd,C,,,,,,,,,,2,0.6667,GRI (opção Essential); verificação BVQI,https://claude.ai/chat/0df55a79-0afb-4500-a3e5-29f57ff10adf
+ENGIE Brasil,2022,DA-I,DA1_planos_contingencia,Q,,,,,,,,,,1,0.75,GRI + SASB + TCFD,https://claude.ai/chat/5690ac26-c1b5-43aa-9c3c-c16b28193d89
+ENGIE Brasil,2022,DA-I,DA1_pct_renovavel,C,,,,,,,,,,1,0.75,GRI + SASB + TCFD,https://claude.ai/chat/5690ac26-c1b5-43aa-9c3c-c16b28193d89
+ENGIE Brasil,2022,DA-I,DA1_armazenamento,C,,,,,,,,,,1,0.75,GRI + SASB + TCFD,https://claude.ai/chat/5690ac26-c1b5-43aa-9c3c-c16b28193d89
+ENGIE Brasil,2022,DA-I,DA1_disponibilidade,C,,,,,,,,,,1,0.75,GRI + SASB + TCFD,https://claude.ai/chat/5690ac26-c1b5-43aa-9c3c-c16b28193d89
+ENGIE Brasil,2022,DA-II,DA2_capex,C,,,,,,,,,,1,0.25,GRI + SASB + TCFD,https://claude.ai/chat/5690ac26-c1b5-43aa-9c3c-c16b28193d89
+ENGIE Brasil,2022,DA-II,DA2_opex,C,,,,,,,,,,1,0.25,GRI + SASB + TCFD,https://claude.ai/chat/5690ac26-c1b5-43aa-9c3c-c16b28193d89
+ENGIE Brasil,2022,DA-II,DA2_lcoe,C,,,,,,,,,,1,0.25,GRI + SASB + TCFD,https://claude.ai/chat/5690ac26-c1b5-43aa-9c3c-c16b28193d89
+ENGIE Brasil,2022,DA-II,DA2_decisao_multicriterio,Q,,,,,,,,,,1,0.25,GRI + SASB + TCFD,https://claude.ai/chat/5690ac26-c1b5-43aa-9c3c-c16b28193d89
+ENGIE Brasil,2022,DA-III,DA3_horas_treinamento,C,,,,,,,,,,2,0.75,GRI + SASB + TCFD,https://claude.ai/chat/5690ac26-c1b5-43aa-9c3c-c16b28193d89
+ENGIE Brasil,2022,DA-III,DA3_taxa_acidentes,C,,,,,,,,,,2,0.75,GRI + SASB + TCFD,https://claude.ai/chat/5690ac26-c1b5-43aa-9c3c-c16b28193d89
+ENGIE Brasil,2022,DA-III,DA3_empregos_locais,C,,,,,,,,,,2,0.75,GRI + SASB + TCFD,https://claude.ai/chat/5690ac26-c1b5-43aa-9c3c-c16b28193d89
+ENGIE Brasil,2022,DA-III,DA3_consulta_comunitaria,Q,,,,,,,,,,2,0.75,GRI + SASB + TCFD,https://claude.ai/chat/5690ac26-c1b5-43aa-9c3c-c16b28193d89
+ENGIE Brasil,2022,DA-IV,DA4_digital_twin,Q,,,,,,,,,,2,0.75,GRI + SASB + TCFD,https://claude.ai/chat/5690ac26-c1b5-43aa-9c3c-c16b28193d89
+ENGIE Brasil,2022,DA-IV,DA4_telemedicao_automacao,C,,,,,,,,,,2,0.75,GRI + SASB + TCFD,https://claude.ai/chat/5690ac26-c1b5-43aa-9c3c-c16b28193d89
+ENGIE Brasil,2022,DA-IV,DA4_ia_preditiva,Q,,,,,,,,,,2,0.75,GRI + SASB + TCFD,https://claude.ai/chat/5690ac26-c1b5-43aa-9c3c-c16b28193d89
+ENGIE Brasil,2022,DA-IV,DA4_ciberseguranca,C,,,,,,,,,,2,0.75,GRI + SASB + TCFD,https://claude.ai/chat/5690ac26-c1b5-43aa-9c3c-c16b28193d89
+ENGIE Brasil,2022,DA-V,DA5_emissoes_ghg,C,,,,,,,,,,2,1.0,GRI + SASB + TCFD,https://claude.ai/chat/5690ac26-c1b5-43aa-9c3c-c16b28193d89
+ENGIE Brasil,2022,DA-V,DA5_agua,C,,,,,,,,,,2,1.0,GRI + SASB + TCFD,https://claude.ai/chat/5690ac26-c1b5-43aa-9c3c-c16b28193d89
+ENGIE Brasil,2022,DA-V,DA5_residuos_reciclados,C,,,,,,,,,,2,1.0,GRI + SASB + TCFD,https://claude.ai/chat/5690ac26-c1b5-43aa-9c3c-c16b28193d89
+ENGIE Brasil,2022,DA-V,DA5_meta_neutralidade,C,,,,,,,,,,2,1.0,GRI + SASB + TCFD,https://claude.ai/chat/5690ac26-c1b5-43aa-9c3c-c16b28193d89
+ENGIE Brasil,2022,DA-VI,DA6_incentivos,C,,,,,,,,,,2,0.6667,GRI + SASB + TCFD,https://claude.ai/chat/5690ac26-c1b5-43aa-9c3c-c16b28193d89
+ENGIE Brasil,2022,DA-VI,DA6_parcerias,C,,,,,,,,,,2,0.6667,GRI + SASB + TCFD,https://claude.ai/chat/5690ac26-c1b5-43aa-9c3c-c16b28193d89
+ENGIE Brasil,2022,DA-VI,DA6_barreiras_regulatorias,Q,,,,,,,,,,2,0.6667,GRI + SASB + TCFD,https://claude.ai/chat/5690ac26-c1b5-43aa-9c3c-c16b28193d89
+ENGIE Brasil,2022,DA-VI,DA6_investimento_pd,C,,,,,,,,,,2,0.6667,GRI + SASB + TCFD,https://claude.ai/chat/5690ac26-c1b5-43aa-9c3c-c16b28193d89
+ENGIE Brasil,2023,DA-I,DA1_planos_contingencia,Q,,,,,,,,,,1,0.75,GRI + SASB + GRI G4 setor elétrico,https://claude.ai/chat/3969c8ed-49cd-491f-9493-cb0e04c0a88a
+ENGIE Brasil,2023,DA-I,DA1_pct_renovavel,C,,,,,,,,,,1,0.75,GRI + SASB + GRI G4 setor elétrico,https://claude.ai/chat/3969c8ed-49cd-491f-9493-cb0e04c0a88a
+ENGIE Brasil,2023,DA-I,DA1_armazenamento,C,,,,,,,,,,1,0.75,GRI + SASB + GRI G4 setor elétrico,https://claude.ai/chat/3969c8ed-49cd-491f-9493-cb0e04c0a88a
+ENGIE Brasil,2023,DA-I,DA1_disponibilidade,C,,,,,,,,,,1,0.75,GRI + SASB + GRI G4 setor elétrico,https://claude.ai/chat/3969c8ed-49cd-491f-9493-cb0e04c0a88a
+ENGIE Brasil,2023,DA-II,DA2_capex,C,,,,,,,,,,1,0.5,GRI + SASB + GRI G4 setor elétrico,https://claude.ai/chat/3969c8ed-49cd-491f-9493-cb0e04c0a88a
+ENGIE Brasil,2023,DA-II,DA2_opex,C,,,,,,,,,,1,0.5,GRI + SASB + GRI G4 setor elétrico,https://claude.ai/chat/3969c8ed-49cd-491f-9493-cb0e04c0a88a
+ENGIE Brasil,2023,DA-II,DA2_lcoe,C,,,,,,,,,,1,0.5,GRI + SASB + GRI G4 setor elétrico,https://claude.ai/chat/3969c8ed-49cd-491f-9493-cb0e04c0a88a
+ENGIE Brasil,2023,DA-II,DA2_decisao_multicriterio,Q,,,,,,,,,,1,0.5,GRI + SASB + GRI G4 setor elétrico,https://claude.ai/chat/3969c8ed-49cd-491f-9493-cb0e04c0a88a
+ENGIE Brasil,2023,DA-III,DA3_horas_treinamento,C,,,,,,,,,,2,0.75,GRI + SASB + GRI G4 setor elétrico,https://claude.ai/chat/3969c8ed-49cd-491f-9493-cb0e04c0a88a
+ENGIE Brasil,2023,DA-III,DA3_taxa_acidentes,C,,,,,,,,,,2,0.75,GRI + SASB + GRI G4 setor elétrico,https://claude.ai/chat/3969c8ed-49cd-491f-9493-cb0e04c0a88a
+ENGIE Brasil,2023,DA-III,DA3_empregos_locais,C,,,,,,,,,,2,0.75,GRI + SASB + GRI G4 setor elétrico,https://claude.ai/chat/3969c8ed-49cd-491f-9493-cb0e04c0a88a
+ENGIE Brasil,2023,DA-III,DA3_consulta_comunitaria,Q,,,,,,,,,,2,0.75,GRI + SASB + GRI G4 setor elétrico,https://claude.ai/chat/3969c8ed-49cd-491f-9493-cb0e04c0a88a
+ENGIE Brasil,2023,DA-IV,DA4_digital_twin,Q,,,,,,,,,,2,0.25,GRI + SASB + GRI G4 setor elétrico,https://claude.ai/chat/3969c8ed-49cd-491f-9493-cb0e04c0a88a
+ENGIE Brasil,2023,DA-IV,DA4_telemedicao_automacao,C,,,,,,,,,,2,0.25,GRI + SASB + GRI G4 setor elétrico,https://claude.ai/chat/3969c8ed-49cd-491f-9493-cb0e04c0a88a
+ENGIE Brasil,2023,DA-IV,DA4_ia_preditiva,Q,,,,,,,,,,2,0.25,GRI + SASB + GRI G4 setor elétrico,https://claude.ai/chat/3969c8ed-49cd-491f-9493-cb0e04c0a88a
+ENGIE Brasil,2023,DA-IV,DA4_ciberseguranca,C,,,,,,,,,,2,0.25,GRI + SASB + GRI G4 setor elétrico,https://claude.ai/chat/3969c8ed-49cd-491f-9493-cb0e04c0a88a
+ENGIE Brasil,2023,DA-V,DA5_emissoes_ghg,C,,,,,,,,,,2,0.75,GRI + SASB + GRI G4 setor elétrico,https://claude.ai/chat/3969c8ed-49cd-491f-9493-cb0e04c0a88a
+ENGIE Brasil,2023,DA-V,DA5_agua,C,,,,,,,,,,2,0.75,GRI + SASB + GRI G4 setor elétrico,https://claude.ai/chat/3969c8ed-49cd-491f-9493-cb0e04c0a88a
+ENGIE Brasil,2023,DA-V,DA5_residuos_reciclados,C,,,,,,,,,,2,0.75,GRI + SASB + GRI G4 setor elétrico,https://claude.ai/chat/3969c8ed-49cd-491f-9493-cb0e04c0a88a
+ENGIE Brasil,2023,DA-V,DA5_meta_neutralidade,C,,,,,,,,,,2,0.75,GRI + SASB + GRI G4 setor elétrico,https://claude.ai/chat/3969c8ed-49cd-491f-9493-cb0e04c0a88a
+ENGIE Brasil,2023,DA-VI,DA6_incentivos,C,,,,,,,,,,2,1.0,GRI + SASB + GRI G4 setor elétrico,https://claude.ai/chat/3969c8ed-49cd-491f-9493-cb0e04c0a88a
+ENGIE Brasil,2023,DA-VI,DA6_parcerias,C,,,,,,,,,,2,1.0,GRI + SASB + GRI G4 setor elétrico,https://claude.ai/chat/3969c8ed-49cd-491f-9493-cb0e04c0a88a
+ENGIE Brasil,2023,DA-VI,DA6_barreiras_regulatorias,Q,,,,,,,,,,2,1.0,GRI + SASB + GRI G4 setor elétrico,https://claude.ai/chat/3969c8ed-49cd-491f-9493-cb0e04c0a88a
+ENGIE Brasil,2023,DA-VI,DA6_investimento_pd,C,,,,,,,,,,2,1.0,GRI + SASB + GRI G4 setor elétrico,https://claude.ai/chat/3969c8ed-49cd-491f-9493-cb0e04c0a88a
+ENGIE Brasil,2024,DA-I,DA1_planos_contingencia,Q,,,,,,,,,,1,0.75,GRI,https://claude.ai/chat/03b4ee97-e2ac-41d8-8051-146089f23e92
+ENGIE Brasil,2024,DA-I,DA1_pct_renovavel,C,,,,,,,,,,1,0.75,GRI,https://claude.ai/chat/03b4ee97-e2ac-41d8-8051-146089f23e92
+ENGIE Brasil,2024,DA-I,DA1_armazenamento,C,,,,,,,,,,1,0.75,GRI,https://claude.ai/chat/03b4ee97-e2ac-41d8-8051-146089f23e92
+ENGIE Brasil,2024,DA-I,DA1_disponibilidade,C,,,,,,,,,,1,0.75,GRI,https://claude.ai/chat/03b4ee97-e2ac-41d8-8051-146089f23e92
+ENGIE Brasil,2024,DA-II,DA2_capex,C,,,,,,,,,,1,0.25,GRI,https://claude.ai/chat/03b4ee97-e2ac-41d8-8051-146089f23e92
+ENGIE Brasil,2024,DA-II,DA2_opex,C,,,,,,,,,,1,0.25,GRI,https://claude.ai/chat/03b4ee97-e2ac-41d8-8051-146089f23e92
+ENGIE Brasil,2024,DA-II,DA2_lcoe,C,,,,,,,,,,1,0.25,GRI,https://claude.ai/chat/03b4ee97-e2ac-41d8-8051-146089f23e92
+ENGIE Brasil,2024,DA-II,DA2_decisao_multicriterio,Q,,,,,,,,,,1,0.25,GRI,https://claude.ai/chat/03b4ee97-e2ac-41d8-8051-146089f23e92
+ENGIE Brasil,2024,DA-III,DA3_horas_treinamento,C,,,,,,,,,,2,1.0,GRI,https://claude.ai/chat/03b4ee97-e2ac-41d8-8051-146089f23e92
+ENGIE Brasil,2024,DA-III,DA3_taxa_acidentes,C,,,,,,,,,,2,1.0,GRI,https://claude.ai/chat/03b4ee97-e2ac-41d8-8051-146089f23e92
+ENGIE Brasil,2024,DA-III,DA3_empregos_locais,C,,,,,,,,,,2,1.0,GRI,https://claude.ai/chat/03b4ee97-e2ac-41d8-8051-146089f23e92
+ENGIE Brasil,2024,DA-III,DA3_consulta_comunitaria,Q,,,,,,,,,,2,1.0,GRI,https://claude.ai/chat/03b4ee97-e2ac-41d8-8051-146089f23e92
+ENGIE Brasil,2024,DA-IV,DA4_digital_twin,Q,,,,,,,,,,2,0.75,GRI,https://claude.ai/chat/03b4ee97-e2ac-41d8-8051-146089f23e92
+ENGIE Brasil,2024,DA-IV,DA4_telemedicao_automacao,C,,,,,,,,,,2,0.75,GRI,https://claude.ai/chat/03b4ee97-e2ac-41d8-8051-146089f23e92
+ENGIE Brasil,2024,DA-IV,DA4_ia_preditiva,Q,,,,,,,,,,2,0.75,GRI,https://claude.ai/chat/03b4ee97-e2ac-41d8-8051-146089f23e92
+ENGIE Brasil,2024,DA-IV,DA4_ciberseguranca,C,,,,,,,,,,2,0.75,GRI,https://claude.ai/chat/03b4ee97-e2ac-41d8-8051-146089f23e92
+ENGIE Brasil,2024,DA-V,DA5_emissoes_ghg,C,,,,,,,,,,2,0.75,GRI,https://claude.ai/chat/03b4ee97-e2ac-41d8-8051-146089f23e92
+ENGIE Brasil,2024,DA-V,DA5_agua,C,,,,,,,,,,2,0.75,GRI,https://claude.ai/chat/03b4ee97-e2ac-41d8-8051-146089f23e92
+ENGIE Brasil,2024,DA-V,DA5_residuos_reciclados,C,,,,,,,,,,2,0.75,GRI,https://claude.ai/chat/03b4ee97-e2ac-41d8-8051-146089f23e92
+ENGIE Brasil,2024,DA-V,DA5_meta_neutralidade,C,,,,,,,,,,2,0.75,GRI,https://claude.ai/chat/03b4ee97-e2ac-41d8-8051-146089f23e92
+ENGIE Brasil,2024,DA-VI,DA6_incentivos,C,,,,,,,,,,2,1.0,GRI,https://claude.ai/chat/03b4ee97-e2ac-41d8-8051-146089f23e92
+ENGIE Brasil,2024,DA-VI,DA6_parcerias,C,,,,,,,,,,2,1.0,GRI,https://claude.ai/chat/03b4ee97-e2ac-41d8-8051-146089f23e92
+ENGIE Brasil,2024,DA-VI,DA6_barreiras_regulatorias,Q,,,,,,,,,,2,1.0,GRI,https://claude.ai/chat/03b4ee97-e2ac-41d8-8051-146089f23e92
+ENGIE Brasil,2024,DA-VI,DA6_investimento_pd,C,,,,,,,,,,2,1.0,GRI,https://claude.ai/chat/03b4ee97-e2ac-41d8-8051-146089f23e92
+ENGIE Brasil,2025,DA-I,DA1_planos_contingencia,Q,,,,,,,,,,1,0.75,GRI + SASB IF-EU,https://claude.ai/chat/4b6b1a43-0929-4d8c-a519-942fc3761be6
+ENGIE Brasil,2025,DA-I,DA1_pct_renovavel,C,,,,,,,,,,1,0.75,GRI + SASB IF-EU,https://claude.ai/chat/4b6b1a43-0929-4d8c-a519-942fc3761be6
+ENGIE Brasil,2025,DA-I,DA1_armazenamento,C,,,,,,,,,,1,0.75,GRI + SASB IF-EU,https://claude.ai/chat/4b6b1a43-0929-4d8c-a519-942fc3761be6
+ENGIE Brasil,2025,DA-I,DA1_disponibilidade,C,,,,,,,,,,1,0.75,GRI + SASB IF-EU,https://claude.ai/chat/4b6b1a43-0929-4d8c-a519-942fc3761be6
+ENGIE Brasil,2025,DA-II,DA2_capex,C,,,,,,,,,,1,0.25,GRI + SASB IF-EU,https://claude.ai/chat/4b6b1a43-0929-4d8c-a519-942fc3761be6
+ENGIE Brasil,2025,DA-II,DA2_opex,C,,,,,,,,,,1,0.25,GRI + SASB IF-EU,https://claude.ai/chat/4b6b1a43-0929-4d8c-a519-942fc3761be6
+ENGIE Brasil,2025,DA-II,DA2_lcoe,C,,,,,,,,,,1,0.25,GRI + SASB IF-EU,https://claude.ai/chat/4b6b1a43-0929-4d8c-a519-942fc3761be6
+ENGIE Brasil,2025,DA-II,DA2_decisao_multicriterio,Q,,,,,,,,,,1,0.25,GRI + SASB IF-EU,https://claude.ai/chat/4b6b1a43-0929-4d8c-a519-942fc3761be6
+ENGIE Brasil,2025,DA-III,DA3_horas_treinamento,C,,,,,,,,,,2,0.75,GRI + SASB IF-EU,https://claude.ai/chat/4b6b1a43-0929-4d8c-a519-942fc3761be6
+ENGIE Brasil,2025,DA-III,DA3_taxa_acidentes,C,,,,,,,,,,2,0.75,GRI + SASB IF-EU,https://claude.ai/chat/4b6b1a43-0929-4d8c-a519-942fc3761be6
+ENGIE Brasil,2025,DA-III,DA3_empregos_locais,C,,,,,,,,,,2,0.75,GRI + SASB IF-EU,https://claude.ai/chat/4b6b1a43-0929-4d8c-a519-942fc3761be6
+ENGIE Brasil,2025,DA-III,DA3_consulta_comunitaria,Q,,,,,,,,,,2,0.75,GRI + SASB IF-EU,https://claude.ai/chat/4b6b1a43-0929-4d8c-a519-942fc3761be6
+ENGIE Brasil,2025,DA-IV,DA4_digital_twin,Q,,,,,,,,,,2,0.75,GRI + SASB IF-EU,https://claude.ai/chat/4b6b1a43-0929-4d8c-a519-942fc3761be6
+ENGIE Brasil,2025,DA-IV,DA4_telemedicao_automacao,C,,,,,,,,,,2,0.75,GRI + SASB IF-EU,https://claude.ai/chat/4b6b1a43-0929-4d8c-a519-942fc3761be6
+ENGIE Brasil,2025,DA-IV,DA4_ia_preditiva,Q,,,,,,,,,,2,0.75,GRI + SASB IF-EU,https://claude.ai/chat/4b6b1a43-0929-4d8c-a519-942fc3761be6
+ENGIE Brasil,2025,DA-IV,DA4_ciberseguranca,C,,,,,,,,,,2,0.75,GRI + SASB IF-EU,https://claude.ai/chat/4b6b1a43-0929-4d8c-a519-942fc3761be6
+ENGIE Brasil,2025,DA-V,DA5_emissoes_ghg,C,,,,,,,,,,2,1.0,GRI + SASB IF-EU,https://claude.ai/chat/4b6b1a43-0929-4d8c-a519-942fc3761be6
+ENGIE Brasil,2025,DA-V,DA5_agua,C,,,,,,,,,,2,1.0,GRI + SASB IF-EU,https://claude.ai/chat/4b6b1a43-0929-4d8c-a519-942fc3761be6
+ENGIE Brasil,2025,DA-V,DA5_residuos_reciclados,C,,,,,,,,,,2,1.0,GRI + SASB IF-EU,https://claude.ai/chat/4b6b1a43-0929-4d8c-a519-942fc3761be6
+ENGIE Brasil,2025,DA-V,DA5_meta_neutralidade,C,,,,,,,,,,2,1.0,GRI + SASB IF-EU,https://claude.ai/chat/4b6b1a43-0929-4d8c-a519-942fc3761be6
+ENGIE Brasil,2025,DA-VI,DA6_incentivos,C,,,,,,,,,,2,0.6667,GRI + SASB IF-EU,https://claude.ai/chat/4b6b1a43-0929-4d8c-a519-942fc3761be6
+ENGIE Brasil,2025,DA-VI,DA6_parcerias,C,,,,,,,,,,2,0.6667,GRI + SASB IF-EU,https://claude.ai/chat/4b6b1a43-0929-4d8c-a519-942fc3761be6
+ENGIE Brasil,2025,DA-VI,DA6_barreiras_regulatorias,Q,,,,,,,,,,2,0.6667,GRI + SASB IF-EU,https://claude.ai/chat/4b6b1a43-0929-4d8c-a519-942fc3761be6
+ENGIE Brasil,2025,DA-VI,DA6_investimento_pd,C,,,,,,,,,,2,0.6667,GRI + SASB IF-EU,https://claude.ai/chat/4b6b1a43-0929-4d8c-a519-942fc3761be6
+Statkraft Brasil,2021,DA-I,DA1_planos_contingencia,Q,,,,,,,,,,1,0.75,GRI (1º relatório da empresa nesse modelo),https://claude.ai/chat/32f55003-262d-430d-b197-4625072f0c6f
+Statkraft Brasil,2021,DA-I,DA1_pct_renovavel,C,,,,,,,,,,1,0.75,GRI (1º relatório da empresa nesse modelo),https://claude.ai/chat/32f55003-262d-430d-b197-4625072f0c6f
+Statkraft Brasil,2021,DA-I,DA1_armazenamento,C,,,,,,,,,,1,0.75,GRI (1º relatório da empresa nesse modelo),https://claude.ai/chat/32f55003-262d-430d-b197-4625072f0c6f
+Statkraft Brasil,2021,DA-I,DA1_disponibilidade,C,,,,,,,,,,1,0.75,GRI (1º relatório da empresa nesse modelo),https://claude.ai/chat/32f55003-262d-430d-b197-4625072f0c6f
+Statkraft Brasil,2021,DA-II,DA2_capex,C,,,,,,,,,,1,0.5,GRI (1º relatório da empresa nesse modelo),https://claude.ai/chat/32f55003-262d-430d-b197-4625072f0c6f
+Statkraft Brasil,2021,DA-II,DA2_opex,C,,,,,,,,,,1,0.5,GRI (1º relatório da empresa nesse modelo),https://claude.ai/chat/32f55003-262d-430d-b197-4625072f0c6f
+Statkraft Brasil,2021,DA-II,DA2_lcoe,C,,,,,,,,,,1,0.5,GRI (1º relatório da empresa nesse modelo),https://claude.ai/chat/32f55003-262d-430d-b197-4625072f0c6f
+Statkraft Brasil,2021,DA-II,DA2_decisao_multicriterio,Q,,,,,,,,,,1,0.5,GRI (1º relatório da empresa nesse modelo),https://claude.ai/chat/32f55003-262d-430d-b197-4625072f0c6f
+Statkraft Brasil,2021,DA-III,DA3_horas_treinamento,C,,,,,,,,,,2,0.75,GRI (1º relatório da empresa nesse modelo),https://claude.ai/chat/32f55003-262d-430d-b197-4625072f0c6f
+Statkraft Brasil,2021,DA-III,DA3_taxa_acidentes,C,,,,,,,,,,2,0.75,GRI (1º relatório da empresa nesse modelo),https://claude.ai/chat/32f55003-262d-430d-b197-4625072f0c6f
+Statkraft Brasil,2021,DA-III,DA3_empregos_locais,C,,,,,,,,,,2,0.75,GRI (1º relatório da empresa nesse modelo),https://claude.ai/chat/32f55003-262d-430d-b197-4625072f0c6f
+Statkraft Brasil,2021,DA-III,DA3_consulta_comunitaria,Q,,,,,,,,,,2,0.75,GRI (1º relatório da empresa nesse modelo),https://claude.ai/chat/32f55003-262d-430d-b197-4625072f0c6f
+Statkraft Brasil,2021,DA-IV,DA4_digital_twin,Q,,,,,,,,,,2,0.5,GRI (1º relatório da empresa nesse modelo),https://claude.ai/chat/32f55003-262d-430d-b197-4625072f0c6f
+Statkraft Brasil,2021,DA-IV,DA4_telemedicao_automacao,C,,,,,,,,,,2,0.5,GRI (1º relatório da empresa nesse modelo),https://claude.ai/chat/32f55003-262d-430d-b197-4625072f0c6f
+Statkraft Brasil,2021,DA-IV,DA4_ia_preditiva,Q,,,,,,,,,,2,0.5,GRI (1º relatório da empresa nesse modelo),https://claude.ai/chat/32f55003-262d-430d-b197-4625072f0c6f
+Statkraft Brasil,2021,DA-IV,DA4_ciberseguranca,C,,,,,,,,,,2,0.5,GRI (1º relatório da empresa nesse modelo),https://claude.ai/chat/32f55003-262d-430d-b197-4625072f0c6f
+Statkraft Brasil,2021,DA-V,DA5_emissoes_ghg,C,,,,,,,,,,2,1.0,GRI (1º relatório da empresa nesse modelo),https://claude.ai/chat/32f55003-262d-430d-b197-4625072f0c6f
+Statkraft Brasil,2021,DA-V,DA5_agua,C,,,,,,,,,,2,1.0,GRI (1º relatório da empresa nesse modelo),https://claude.ai/chat/32f55003-262d-430d-b197-4625072f0c6f
+Statkraft Brasil,2021,DA-V,DA5_residuos_reciclados,C,,,,,,,,,,2,1.0,GRI (1º relatório da empresa nesse modelo),https://claude.ai/chat/32f55003-262d-430d-b197-4625072f0c6f
+Statkraft Brasil,2021,DA-V,DA5_meta_neutralidade,C,,,,,,,,,,2,1.0,GRI (1º relatório da empresa nesse modelo),https://claude.ai/chat/32f55003-262d-430d-b197-4625072f0c6f
+Statkraft Brasil,2021,DA-VI,DA6_incentivos,C,,,,,,,,,,2,0.6667,GRI (1º relatório da empresa nesse modelo),https://claude.ai/chat/32f55003-262d-430d-b197-4625072f0c6f
+Statkraft Brasil,2021,DA-VI,DA6_parcerias,C,,,,,,,,,,2,0.6667,GRI (1º relatório da empresa nesse modelo),https://claude.ai/chat/32f55003-262d-430d-b197-4625072f0c6f
+Statkraft Brasil,2021,DA-VI,DA6_barreiras_regulatorias,Q,,,,,,,,,,2,0.6667,GRI (1º relatório da empresa nesse modelo),https://claude.ai/chat/32f55003-262d-430d-b197-4625072f0c6f
+Statkraft Brasil,2021,DA-VI,DA6_investimento_pd,C,,,,,,,,,,2,0.6667,GRI (1º relatório da empresa nesse modelo),https://claude.ai/chat/32f55003-262d-430d-b197-4625072f0c6f
+Statkraft Brasil,2022,DA-I,DA1_planos_contingencia,Q,,,,,,,,,,1,0.75,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/cc3bc9ac-3806-49b4-98bf-40b331414463
+Statkraft Brasil,2022,DA-I,DA1_pct_renovavel,C,,,,,,,,,,1,0.75,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/cc3bc9ac-3806-49b4-98bf-40b331414463
+Statkraft Brasil,2022,DA-I,DA1_armazenamento,C,,,,,,,,,,1,0.75,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/cc3bc9ac-3806-49b4-98bf-40b331414463
+Statkraft Brasil,2022,DA-I,DA1_disponibilidade,C,,,,,,,,,,1,0.75,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/cc3bc9ac-3806-49b4-98bf-40b331414463
+Statkraft Brasil,2022,DA-II,DA2_capex,C,,,,,,,,,,1,0.25,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/cc3bc9ac-3806-49b4-98bf-40b331414463
+Statkraft Brasil,2022,DA-II,DA2_opex,C,,,,,,,,,,1,0.25,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/cc3bc9ac-3806-49b4-98bf-40b331414463
+Statkraft Brasil,2022,DA-II,DA2_lcoe,C,,,,,,,,,,1,0.25,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/cc3bc9ac-3806-49b4-98bf-40b331414463
+Statkraft Brasil,2022,DA-II,DA2_decisao_multicriterio,Q,,,,,,,,,,1,0.25,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/cc3bc9ac-3806-49b4-98bf-40b331414463
+Statkraft Brasil,2022,DA-III,DA3_horas_treinamento,C,,,,,,,,,,2,0.75,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/cc3bc9ac-3806-49b4-98bf-40b331414463
+Statkraft Brasil,2022,DA-III,DA3_taxa_acidentes,C,,,,,,,,,,2,0.75,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/cc3bc9ac-3806-49b4-98bf-40b331414463
+Statkraft Brasil,2022,DA-III,DA3_empregos_locais,C,,,,,,,,,,2,0.75,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/cc3bc9ac-3806-49b4-98bf-40b331414463
+Statkraft Brasil,2022,DA-III,DA3_consulta_comunitaria,Q,,,,,,,,,,2,0.75,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/cc3bc9ac-3806-49b4-98bf-40b331414463
+Statkraft Brasil,2022,DA-IV,DA4_digital_twin,Q,,,,,,,,,,2,0.5,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/cc3bc9ac-3806-49b4-98bf-40b331414463
+Statkraft Brasil,2022,DA-IV,DA4_telemedicao_automacao,C,,,,,,,,,,2,0.5,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/cc3bc9ac-3806-49b4-98bf-40b331414463
+Statkraft Brasil,2022,DA-IV,DA4_ia_preditiva,Q,,,,,,,,,,2,0.5,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/cc3bc9ac-3806-49b4-98bf-40b331414463
+Statkraft Brasil,2022,DA-IV,DA4_ciberseguranca,C,,,,,,,,,,2,0.5,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/cc3bc9ac-3806-49b4-98bf-40b331414463
+Statkraft Brasil,2022,DA-V,DA5_emissoes_ghg,C,,,,,,,,,,2,1.0,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/cc3bc9ac-3806-49b4-98bf-40b331414463
+Statkraft Brasil,2022,DA-V,DA5_agua,C,,,,,,,,,,2,1.0,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/cc3bc9ac-3806-49b4-98bf-40b331414463
+Statkraft Brasil,2022,DA-V,DA5_residuos_reciclados,C,,,,,,,,,,2,1.0,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/cc3bc9ac-3806-49b4-98bf-40b331414463
+Statkraft Brasil,2022,DA-V,DA5_meta_neutralidade,C,,,,,,,,,,2,1.0,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/cc3bc9ac-3806-49b4-98bf-40b331414463
+Statkraft Brasil,2022,DA-VI,DA6_incentivos,C,,,,,,,,,,2,0.6667,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/cc3bc9ac-3806-49b4-98bf-40b331414463
+Statkraft Brasil,2022,DA-VI,DA6_parcerias,C,,,,,,,,,,2,0.6667,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/cc3bc9ac-3806-49b4-98bf-40b331414463
+Statkraft Brasil,2022,DA-VI,DA6_barreiras_regulatorias,Q,,,,,,,,,,2,0.6667,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/cc3bc9ac-3806-49b4-98bf-40b331414463
+Statkraft Brasil,2022,DA-VI,DA6_investimento_pd,C,,,,,,,,,,2,0.6667,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/cc3bc9ac-3806-49b4-98bf-40b331414463
+Statkraft Brasil,2023,DA-I,DA1_planos_contingencia,Q,,,,,,,,,,1,1.0,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/c2c39887-9468-420f-bca1-3b61790d4a61
+Statkraft Brasil,2023,DA-I,DA1_pct_renovavel,C,,,,,,,,,,1,1.0,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/c2c39887-9468-420f-bca1-3b61790d4a61
+Statkraft Brasil,2023,DA-I,DA1_armazenamento,C,,,,,,,,,,1,1.0,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/c2c39887-9468-420f-bca1-3b61790d4a61
+Statkraft Brasil,2023,DA-I,DA1_disponibilidade,C,,,,,,,,,,1,1.0,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/c2c39887-9468-420f-bca1-3b61790d4a61
+Statkraft Brasil,2023,DA-II,DA2_capex,C,,,,,,,,,,1,0.5,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/c2c39887-9468-420f-bca1-3b61790d4a61
+Statkraft Brasil,2023,DA-II,DA2_opex,C,,,,,,,,,,1,0.5,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/c2c39887-9468-420f-bca1-3b61790d4a61
+Statkraft Brasil,2023,DA-II,DA2_lcoe,C,,,,,,,,,,1,0.5,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/c2c39887-9468-420f-bca1-3b61790d4a61
+Statkraft Brasil,2023,DA-II,DA2_decisao_multicriterio,Q,,,,,,,,,,1,0.5,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/c2c39887-9468-420f-bca1-3b61790d4a61
+Statkraft Brasil,2023,DA-III,DA3_horas_treinamento,C,,,,,,,,,,2,0.75,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/c2c39887-9468-420f-bca1-3b61790d4a61
+Statkraft Brasil,2023,DA-III,DA3_taxa_acidentes,C,,,,,,,,,,2,0.75,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/c2c39887-9468-420f-bca1-3b61790d4a61
+Statkraft Brasil,2023,DA-III,DA3_empregos_locais,C,,,,,,,,,,2,0.75,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/c2c39887-9468-420f-bca1-3b61790d4a61
+Statkraft Brasil,2023,DA-III,DA3_consulta_comunitaria,Q,,,,,,,,,,2,0.75,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/c2c39887-9468-420f-bca1-3b61790d4a61
+Statkraft Brasil,2023,DA-IV,DA4_digital_twin,Q,,,,,,,,,,2,0.25,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/c2c39887-9468-420f-bca1-3b61790d4a61
+Statkraft Brasil,2023,DA-IV,DA4_telemedicao_automacao,C,,,,,,,,,,2,0.25,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/c2c39887-9468-420f-bca1-3b61790d4a61
+Statkraft Brasil,2023,DA-IV,DA4_ia_preditiva,Q,,,,,,,,,,2,0.25,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/c2c39887-9468-420f-bca1-3b61790d4a61
+Statkraft Brasil,2023,DA-IV,DA4_ciberseguranca,C,,,,,,,,,,2,0.25,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/c2c39887-9468-420f-bca1-3b61790d4a61
+Statkraft Brasil,2023,DA-V,DA5_emissoes_ghg,C,,,,,,,,,,2,1.0,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/c2c39887-9468-420f-bca1-3b61790d4a61
+Statkraft Brasil,2023,DA-V,DA5_agua,C,,,,,,,,,,2,1.0,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/c2c39887-9468-420f-bca1-3b61790d4a61
+Statkraft Brasil,2023,DA-V,DA5_residuos_reciclados,C,,,,,,,,,,2,1.0,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/c2c39887-9468-420f-bca1-3b61790d4a61
+Statkraft Brasil,2023,DA-V,DA5_meta_neutralidade,C,,,,,,,,,,2,1.0,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/c2c39887-9468-420f-bca1-3b61790d4a61
+Statkraft Brasil,2023,DA-VI,DA6_incentivos,C,,,,,,,,,,2,0.6667,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/c2c39887-9468-420f-bca1-3b61790d4a61
+Statkraft Brasil,2023,DA-VI,DA6_parcerias,C,,,,,,,,,,2,0.6667,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/c2c39887-9468-420f-bca1-3b61790d4a61
+Statkraft Brasil,2023,DA-VI,DA6_barreiras_regulatorias,Q,,,,,,,,,,2,0.6667,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/c2c39887-9468-420f-bca1-3b61790d4a61
+Statkraft Brasil,2023,DA-VI,DA6_investimento_pd,C,,,,,,,,,,2,0.6667,GRI + Pacto Global + Manual ANEEL,https://claude.ai/chat/c2c39887-9468-420f-bca1-3b61790d4a61
+Statkraft Brasil,2024,DA-I,DA1_planos_contingencia,Q,,,,,,,,,,1,0.5,GRI (formato apresentação/slide-deck),https://claude.ai/chat/e45f506a-c43e-4a78-b2fa-38218e666604
+Statkraft Brasil,2024,DA-I,DA1_pct_renovavel,C,,,,,,,,,,1,0.5,GRI (formato apresentação/slide-deck),https://claude.ai/chat/e45f506a-c43e-4a78-b2fa-38218e666604
+Statkraft Brasil,2024,DA-I,DA1_armazenamento,C,,,,,,,,,,1,0.5,GRI (formato apresentação/slide-deck),https://claude.ai/chat/e45f506a-c43e-4a78-b2fa-38218e666604
+Statkraft Brasil,2024,DA-I,DA1_disponibilidade,C,,,,,,,,,,1,0.5,GRI (formato apresentação/slide-deck),https://claude.ai/chat/e45f506a-c43e-4a78-b2fa-38218e666604
+Statkraft Brasil,2024,DA-II,DA2_capex,C,,,,,,,,,,1,0.0,GRI (formato apresentação/slide-deck),https://claude.ai/chat/e45f506a-c43e-4a78-b2fa-38218e666604
+Statkraft Brasil,2024,DA-II,DA2_opex,C,,,,,,,,,,1,0.0,GRI (formato apresentação/slide-deck),https://claude.ai/chat/e45f506a-c43e-4a78-b2fa-38218e666604
+Statkraft Brasil,2024,DA-II,DA2_lcoe,C,,,,,,,,,,1,0.0,GRI (formato apresentação/slide-deck),https://claude.ai/chat/e45f506a-c43e-4a78-b2fa-38218e666604
+Statkraft Brasil,2024,DA-II,DA2_decisao_multicriterio,Q,,,,,,,,,,1,0.0,GRI (formato apresentação/slide-deck),https://claude.ai/chat/e45f506a-c43e-4a78-b2fa-38218e666604
+Statkraft Brasil,2024,DA-III,DA3_horas_treinamento,C,,,,,,,,,,2,0.5,GRI (formato apresentação/slide-deck),https://claude.ai/chat/e45f506a-c43e-4a78-b2fa-38218e666604
+Statkraft Brasil,2024,DA-III,DA3_taxa_acidentes,C,,,,,,,,,,2,0.5,GRI (formato apresentação/slide-deck),https://claude.ai/chat/e45f506a-c43e-4a78-b2fa-38218e666604
+Statkraft Brasil,2024,DA-III,DA3_empregos_locais,C,,,,,,,,,,2,0.5,GRI (formato apresentação/slide-deck),https://claude.ai/chat/e45f506a-c43e-4a78-b2fa-38218e666604
+Statkraft Brasil,2024,DA-III,DA3_consulta_comunitaria,Q,,,,,,,,,,2,0.5,GRI (formato apresentação/slide-deck),https://claude.ai/chat/e45f506a-c43e-4a78-b2fa-38218e666604
+Statkraft Brasil,2024,DA-IV,DA4_digital_twin,Q,,,,,,,,,,2,0.25,GRI (formato apresentação/slide-deck),https://claude.ai/chat/e45f506a-c43e-4a78-b2fa-38218e666604
+Statkraft Brasil,2024,DA-IV,DA4_telemedicao_automacao,C,,,,,,,,,,2,0.25,GRI (formato apresentação/slide-deck),https://claude.ai/chat/e45f506a-c43e-4a78-b2fa-38218e666604
+Statkraft Brasil,2024,DA-IV,DA4_ia_preditiva,Q,,,,,,,,,,2,0.25,GRI (formato apresentação/slide-deck),https://claude.ai/chat/e45f506a-c43e-4a78-b2fa-38218e666604
+Statkraft Brasil,2024,DA-IV,DA4_ciberseguranca,C,,,,,,,,,,2,0.25,GRI (formato apresentação/slide-deck),https://claude.ai/chat/e45f506a-c43e-4a78-b2fa-38218e666604
+Statkraft Brasil,2024,DA-V,DA5_emissoes_ghg,C,,,,,,,,,,2,1.0,GRI (formato apresentação/slide-deck),https://claude.ai/chat/e45f506a-c43e-4a78-b2fa-38218e666604
+Statkraft Brasil,2024,DA-V,DA5_agua,C,,,,,,,,,,2,1.0,GRI (formato apresentação/slide-deck),https://claude.ai/chat/e45f506a-c43e-4a78-b2fa-38218e666604
+Statkraft Brasil,2024,DA-V,DA5_residuos_reciclados,C,,,,,,,,,,2,1.0,GRI (formato apresentação/slide-deck),https://claude.ai/chat/e45f506a-c43e-4a78-b2fa-38218e666604
+Statkraft Brasil,2024,DA-V,DA5_meta_neutralidade,C,,,,,,,,,,2,1.0,GRI (formato apresentação/slide-deck),https://claude.ai/chat/e45f506a-c43e-4a78-b2fa-38218e666604
+Statkraft Brasil,2024,DA-VI,DA6_incentivos,C,,,,,,,,,,2,0.6667,GRI (formato apresentação/slide-deck),https://claude.ai/chat/e45f506a-c43e-4a78-b2fa-38218e666604
+Statkraft Brasil,2024,DA-VI,DA6_parcerias,C,,,,,,,,,,2,0.6667,GRI (formato apresentação/slide-deck),https://claude.ai/chat/e45f506a-c43e-4a78-b2fa-38218e666604
+Statkraft Brasil,2024,DA-VI,DA6_barreiras_regulatorias,Q,,,,,,,,,,2,0.6667,GRI (formato apresentação/slide-deck),https://claude.ai/chat/e45f506a-c43e-4a78-b2fa-38218e666604
+Statkraft Brasil,2024,DA-VI,DA6_investimento_pd,C,,,,,,,,,,2,0.6667,GRI (formato apresentação/slide-deck),https://claude.ai/chat/e45f506a-c43e-4a78-b2fa-38218e666604
+Statkraft Brasil,2025,DA-I,DA1_planos_contingencia,Q,,,,,,,,,,1,0.5,GRI,https://claude.ai/chat/c9800e7a-ce56-4c09-91b2-3b9bc47a94a7
+Statkraft Brasil,2025,DA-I,DA1_pct_renovavel,C,,,,,,,,,,1,0.5,GRI,https://claude.ai/chat/c9800e7a-ce56-4c09-91b2-3b9bc47a94a7
+Statkraft Brasil,2025,DA-I,DA1_armazenamento,C,,,,,,,,,,1,0.5,GRI,https://claude.ai/chat/c9800e7a-ce56-4c09-91b2-3b9bc47a94a7
+Statkraft Brasil,2025,DA-I,DA1_disponibilidade,C,,,,,,,,,,1,0.5,GRI,https://claude.ai/chat/c9800e7a-ce56-4c09-91b2-3b9bc47a94a7
+Statkraft Brasil,2025,DA-II,DA2_capex,C,,,,,,,,,,1,0.25,GRI,https://claude.ai/chat/c9800e7a-ce56-4c09-91b2-3b9bc47a94a7
+Statkraft Brasil,2025,DA-II,DA2_opex,C,,,,,,,,,,1,0.25,GRI,https://claude.ai/chat/c9800e7a-ce56-4c09-91b2-3b9bc47a94a7
+Statkraft Brasil,2025,DA-II,DA2_lcoe,C,,,,,,,,,,1,0.25,GRI,https://claude.ai/chat/c9800e7a-ce56-4c09-91b2-3b9bc47a94a7
+Statkraft Brasil,2025,DA-II,DA2_decisao_multicriterio,Q,,,,,,,,,,1,0.25,GRI,https://claude.ai/chat/c9800e7a-ce56-4c09-91b2-3b9bc47a94a7
+Statkraft Brasil,2025,DA-III,DA3_horas_treinamento,C,,,,,,,,,,2,0.5,GRI,https://claude.ai/chat/c9800e7a-ce56-4c09-91b2-3b9bc47a94a7
+Statkraft Brasil,2025,DA-III,DA3_taxa_acidentes,C,,,,,,,,,,2,0.5,GRI,https://claude.ai/chat/c9800e7a-ce56-4c09-91b2-3b9bc47a94a7
+Statkraft Brasil,2025,DA-III,DA3_empregos_locais,C,,,,,,,,,,2,0.5,GRI,https://claude.ai/chat/c9800e7a-ce56-4c09-91b2-3b9bc47a94a7
+Statkraft Brasil,2025,DA-III,DA3_consulta_comunitaria,Q,,,,,,,,,,2,0.5,GRI,https://claude.ai/chat/c9800e7a-ce56-4c09-91b2-3b9bc47a94a7
+Statkraft Brasil,2025,DA-IV,DA4_digital_twin,Q,,,,,,,,,,2,0.5,GRI,https://claude.ai/chat/c9800e7a-ce56-4c09-91b2-3b9bc47a94a7
+Statkraft Brasil,2025,DA-IV,DA4_telemedicao_automacao,C,,,,,,,,,,2,0.5,GRI,https://claude.ai/chat/c9800e7a-ce56-4c09-91b2-3b9bc47a94a7
+Statkraft Brasil,2025,DA-IV,DA4_ia_preditiva,Q,,,,,,,,,,2,0.5,GRI,https://claude.ai/chat/c9800e7a-ce56-4c09-91b2-3b9bc47a94a7
+Statkraft Brasil,2025,DA-IV,DA4_ciberseguranca,C,,,,,,,,,,2,0.5,GRI,https://claude.ai/chat/c9800e7a-ce56-4c09-91b2-3b9bc47a94a7
+Statkraft Brasil,2025,DA-V,DA5_emissoes_ghg,C,,,,,,,,,,2,0.5,GRI,https://claude.ai/chat/c9800e7a-ce56-4c09-91b2-3b9bc47a94a7
+Statkraft Brasil,2025,DA-V,DA5_agua,C,,,,,,,,,,2,0.5,GRI,https://claude.ai/chat/c9800e7a-ce56-4c09-91b2-3b9bc47a94a7
+Statkraft Brasil,2025,DA-V,DA5_residuos_reciclados,C,,,,,,,,,,2,0.5,GRI,https://claude.ai/chat/c9800e7a-ce56-4c09-91b2-3b9bc47a94a7
+Statkraft Brasil,2025,DA-V,DA5_meta_neutralidade,C,,,,,,,,,,2,0.5,GRI,https://claude.ai/chat/c9800e7a-ce56-4c09-91b2-3b9bc47a94a7
+Statkraft Brasil,2025,DA-VI,DA6_incentivos,C,,,,,,,,,,2,1.0,GRI,https://claude.ai/chat/c9800e7a-ce56-4c09-91b2-3b9bc47a94a7
+Statkraft Brasil,2025,DA-VI,DA6_parcerias,C,,,,,,,,,,2,1.0,GRI,https://claude.ai/chat/c9800e7a-ce56-4c09-91b2-3b9bc47a94a7
+Statkraft Brasil,2025,DA-VI,DA6_barreiras_regulatorias,Q,,,,,,,,,,2,1.0,GRI,https://claude.ai/chat/c9800e7a-ce56-4c09-91b2-3b9bc47a94a7
+Statkraft Brasil,2025,DA-VI,DA6_investimento_pd,C,,,,,,,,,,2,1.0,GRI,https://claude.ai/chat/c9800e7a-ce56-4c09-91b2-3b9bc47a94a7
+Neoenergia,2021,DA-I,DA1_planos_contingencia,Q,,,,,,,,,,1,0.5,GRI + SASB,https://claude.ai/chat/c76c7c0e-2b3b-4ee4-a14c-f8ffd54c7543
+Neoenergia,2021,DA-I,DA1_pct_renovavel,C,,,,,,,,,,1,0.5,GRI + SASB,https://claude.ai/chat/c76c7c0e-2b3b-4ee4-a14c-f8ffd54c7543
+Neoenergia,2021,DA-I,DA1_armazenamento,C,,,,,,,,,,1,0.5,GRI + SASB,https://claude.ai/chat/c76c7c0e-2b3b-4ee4-a14c-f8ffd54c7543
+Neoenergia,2021,DA-I,DA1_disponibilidade,C,,,,,,,,,,1,0.5,GRI + SASB,https://claude.ai/chat/c76c7c0e-2b3b-4ee4-a14c-f8ffd54c7543
+Neoenergia,2021,DA-II,DA2_capex,C,,,,,,,,,,1,0.25,GRI + SASB,https://claude.ai/chat/c76c7c0e-2b3b-4ee4-a14c-f8ffd54c7543
+Neoenergia,2021,DA-II,DA2_opex,C,,,,,,,,,,1,0.25,GRI + SASB,https://claude.ai/chat/c76c7c0e-2b3b-4ee4-a14c-f8ffd54c7543
+Neoenergia,2021,DA-II,DA2_lcoe,C,,,,,,,,,,1,0.25,GRI + SASB,https://claude.ai/chat/c76c7c0e-2b3b-4ee4-a14c-f8ffd54c7543
+Neoenergia,2021,DA-II,DA2_decisao_multicriterio,Q,,,,,,,,,,1,0.25,GRI + SASB,https://claude.ai/chat/c76c7c0e-2b3b-4ee4-a14c-f8ffd54c7543
+Neoenergia,2021,DA-III,DA3_horas_treinamento,C,,,,,,,,,,2,0.75,GRI + SASB,https://claude.ai/chat/c76c7c0e-2b3b-4ee4-a14c-f8ffd54c7543
+Neoenergia,2021,DA-III,DA3_taxa_acidentes,C,,,,,,,,,,2,0.75,GRI + SASB,https://claude.ai/chat/c76c7c0e-2b3b-4ee4-a14c-f8ffd54c7543
+Neoenergia,2021,DA-III,DA3_empregos_locais,C,,,,,,,,,,2,0.75,GRI + SASB,https://claude.ai/chat/c76c7c0e-2b3b-4ee4-a14c-f8ffd54c7543
+Neoenergia,2021,DA-III,DA3_consulta_comunitaria,Q,,,,,,,,,,2,0.75,GRI + SASB,https://claude.ai/chat/c76c7c0e-2b3b-4ee4-a14c-f8ffd54c7543
+Neoenergia,2021,DA-IV,DA4_digital_twin,Q,,,,,,,,,,2,0.75,GRI + SASB,https://claude.ai/chat/c76c7c0e-2b3b-4ee4-a14c-f8ffd54c7543
+Neoenergia,2021,DA-IV,DA4_telemedicao_automacao,C,,,,,,,,,,2,0.75,GRI + SASB,https://claude.ai/chat/c76c7c0e-2b3b-4ee4-a14c-f8ffd54c7543
+Neoenergia,2021,DA-IV,DA4_ia_preditiva,Q,,,,,,,,,,2,0.75,GRI + SASB,https://claude.ai/chat/c76c7c0e-2b3b-4ee4-a14c-f8ffd54c7543
+Neoenergia,2021,DA-IV,DA4_ciberseguranca,C,,,,,,,,,,2,0.75,GRI + SASB,https://claude.ai/chat/c76c7c0e-2b3b-4ee4-a14c-f8ffd54c7543
+Neoenergia,2021,DA-V,DA5_emissoes_ghg,C,,,,,,,,,,2,0.75,GRI + SASB,https://claude.ai/chat/c76c7c0e-2b3b-4ee4-a14c-f8ffd54c7543
+Neoenergia,2021,DA-V,DA5_agua,C,,,,,,,,,,2,0.75,GRI + SASB,https://claude.ai/chat/c76c7c0e-2b3b-4ee4-a14c-f8ffd54c7543
+Neoenergia,2021,DA-V,DA5_residuos_reciclados,C,,,,,,,,,,2,0.75,GRI + SASB,https://claude.ai/chat/c76c7c0e-2b3b-4ee4-a14c-f8ffd54c7543
+Neoenergia,2021,DA-V,DA5_meta_neutralidade,C,,,,,,,,,,2,0.75,GRI + SASB,https://claude.ai/chat/c76c7c0e-2b3b-4ee4-a14c-f8ffd54c7543
+Neoenergia,2021,DA-VI,DA6_incentivos,C,,,,,,,,,,2,1.0,GRI + SASB,https://claude.ai/chat/c76c7c0e-2b3b-4ee4-a14c-f8ffd54c7543
+Neoenergia,2021,DA-VI,DA6_parcerias,C,,,,,,,,,,2,1.0,GRI + SASB,https://claude.ai/chat/c76c7c0e-2b3b-4ee4-a14c-f8ffd54c7543
+Neoenergia,2021,DA-VI,DA6_barreiras_regulatorias,Q,,,,,,,,,,2,1.0,GRI + SASB,https://claude.ai/chat/c76c7c0e-2b3b-4ee4-a14c-f8ffd54c7543
+Neoenergia,2021,DA-VI,DA6_investimento_pd,C,,,,,,,,,,2,1.0,GRI + SASB,https://claude.ai/chat/c76c7c0e-2b3b-4ee4-a14c-f8ffd54c7543
+Neoenergia,2022,DA-I,DA1_planos_contingencia,Q,,,,,,,,,,1,0.75,GRI + IIRC + Manual ANEEL + SASB + TCFD,https://claude.ai/chat/8218b331-2ac8-4083-8dca-0ccb31a82312
+Neoenergia,2022,DA-I,DA1_pct_renovavel,C,,,,,,,,,,1,0.75,GRI + IIRC + Manual ANEEL + SASB + TCFD,https://claude.ai/chat/8218b331-2ac8-4083-8dca-0ccb31a82312
+Neoenergia,2022,DA-I,DA1_armazenamento,C,,,,,,,,,,1,0.75,GRI + IIRC + Manual ANEEL + SASB + TCFD,https://claude.ai/chat/8218b331-2ac8-4083-8dca-0ccb31a82312
+Neoenergia,2022,DA-I,DA1_disponibilidade,C,,,,,,,,,,1,0.75,GRI + IIRC + Manual ANEEL + SASB + TCFD,https://claude.ai/chat/8218b331-2ac8-4083-8dca-0ccb31a82312
+Neoenergia,2022,DA-II,DA2_capex,C,,,,,,,,,,1,0.5,GRI + IIRC + Manual ANEEL + SASB + TCFD,https://claude.ai/chat/8218b331-2ac8-4083-8dca-0ccb31a82312
+Neoenergia,2022,DA-II,DA2_opex,C,,,,,,,,,,1,0.5,GRI + IIRC + Manual ANEEL + SASB + TCFD,https://claude.ai/chat/8218b331-2ac8-4083-8dca-0ccb31a82312
+Neoenergia,2022,DA-II,DA2_lcoe,C,,,,,,,,,,1,0.5,GRI + IIRC + Manual ANEEL + SASB + TCFD,https://claude.ai/chat/8218b331-2ac8-4083-8dca-0ccb31a82312
+Neoenergia,2022,DA-II,DA2_decisao_multicriterio,Q,,,,,,,,,,1,0.5,GRI + IIRC + Manual ANEEL + SASB + TCFD,https://claude.ai/chat/8218b331-2ac8-4083-8dca-0ccb31a82312
+Neoenergia,2022,DA-III,DA3_horas_treinamento,C,,,,,,,,,,2,0.75,GRI + IIRC + Manual ANEEL + SASB + TCFD,https://claude.ai/chat/8218b331-2ac8-4083-8dca-0ccb31a82312
+Neoenergia,2022,DA-III,DA3_taxa_acidentes,C,,,,,,,,,,2,0.75,GRI + IIRC + Manual ANEEL + SASB + TCFD,https://claude.ai/chat/8218b331-2ac8-4083-8dca-0ccb31a82312
+Neoenergia,2022,DA-III,DA3_empregos_locais,C,,,,,,,,,,2,0.75,GRI + IIRC + Manual ANEEL + SASB + TCFD,https://claude.ai/chat/8218b331-2ac8-4083-8dca-0ccb31a82312
+Neoenergia,2022,DA-III,DA3_consulta_comunitaria,Q,,,,,,,,,,2,0.75,GRI + IIRC + Manual ANEEL + SASB + TCFD,https://claude.ai/chat/8218b331-2ac8-4083-8dca-0ccb31a82312
+Neoenergia,2022,DA-IV,DA4_digital_twin,Q,,,,,,,,,,2,1.0,GRI + IIRC + Manual ANEEL + SASB + TCFD,https://claude.ai/chat/8218b331-2ac8-4083-8dca-0ccb31a82312
+Neoenergia,2022,DA-IV,DA4_telemedicao_automacao,C,,,,,,,,,,2,1.0,GRI + IIRC + Manual ANEEL + SASB + TCFD,https://claude.ai/chat/8218b331-2ac8-4083-8dca-0ccb31a82312
+Neoenergia,2022,DA-IV,DA4_ia_preditiva,Q,,,,,,,,,,2,1.0,GRI + IIRC + Manual ANEEL + SASB + TCFD,https://claude.ai/chat/8218b331-2ac8-4083-8dca-0ccb31a82312
+Neoenergia,2022,DA-IV,DA4_ciberseguranca,C,,,,,,,,,,2,1.0,GRI + IIRC + Manual ANEEL + SASB + TCFD,https://claude.ai/chat/8218b331-2ac8-4083-8dca-0ccb31a82312
+Neoenergia,2022,DA-V,DA5_emissoes_ghg,C,,,,,,,,,,2,1.0,GRI + IIRC + Manual ANEEL + SASB + TCFD,https://claude.ai/chat/8218b331-2ac8-4083-8dca-0ccb31a82312
+Neoenergia,2022,DA-V,DA5_agua,C,,,,,,,,,,2,1.0,GRI + IIRC + Manual ANEEL + SASB + TCFD,https://claude.ai/chat/8218b331-2ac8-4083-8dca-0ccb31a82312
+Neoenergia,2022,DA-V,DA5_residuos_reciclados,C,,,,,,,,,,2,1.0,GRI + IIRC + Manual ANEEL + SASB + TCFD,https://claude.ai/chat/8218b331-2ac8-4083-8dca-0ccb31a82312
+Neoenergia,2022,DA-V,DA5_meta_neutralidade,C,,,,,,,,,,2,1.0,GRI + IIRC + Manual ANEEL + SASB + TCFD,https://claude.ai/chat/8218b331-2ac8-4083-8dca-0ccb31a82312
+Neoenergia,2022,DA-VI,DA6_incentivos,C,,,,,,,,,,2,1.0,GRI + IIRC + Manual ANEEL + SASB + TCFD,https://claude.ai/chat/8218b331-2ac8-4083-8dca-0ccb31a82312
+Neoenergia,2022,DA-VI,DA6_parcerias,C,,,,,,,,,,2,1.0,GRI + IIRC + Manual ANEEL + SASB + TCFD,https://claude.ai/chat/8218b331-2ac8-4083-8dca-0ccb31a82312
+Neoenergia,2022,DA-VI,DA6_barreiras_regulatorias,Q,,,,,,,,,,2,1.0,GRI + IIRC + Manual ANEEL + SASB + TCFD,https://claude.ai/chat/8218b331-2ac8-4083-8dca-0ccb31a82312
+Neoenergia,2022,DA-VI,DA6_investimento_pd,C,,,,,,,,,,2,1.0,GRI + IIRC + Manual ANEEL + SASB + TCFD,https://claude.ai/chat/8218b331-2ac8-4083-8dca-0ccb31a82312
+Neoenergia,2023,DA-I,DA1_planos_contingencia,Q,,,,,,,,,,1,0.75,GRI + SASB IF-EU + normas setoriais EU,https://claude.ai/chat/f3b16934-5c4a-42e6-a7cf-35b5ef553473
+Neoenergia,2023,DA-I,DA1_pct_renovavel,C,,,,,,,,,,1,0.75,GRI + SASB IF-EU + normas setoriais EU,https://claude.ai/chat/f3b16934-5c4a-42e6-a7cf-35b5ef553473
+Neoenergia,2023,DA-I,DA1_armazenamento,C,,,,,,,,,,1,0.75,GRI + SASB IF-EU + normas setoriais EU,https://claude.ai/chat/f3b16934-5c4a-42e6-a7cf-35b5ef553473
+Neoenergia,2023,DA-I,DA1_disponibilidade,C,,,,,,,,,,1,0.75,GRI + SASB IF-EU + normas setoriais EU,https://claude.ai/chat/f3b16934-5c4a-42e6-a7cf-35b5ef553473
+Neoenergia,2023,DA-II,DA2_capex,C,,,,,,,,,,1,0.25,GRI + SASB IF-EU + normas setoriais EU,https://claude.ai/chat/f3b16934-5c4a-42e6-a7cf-35b5ef553473
+Neoenergia,2023,DA-II,DA2_opex,C,,,,,,,,,,1,0.25,GRI + SASB IF-EU + normas setoriais EU,https://claude.ai/chat/f3b16934-5c4a-42e6-a7cf-35b5ef553473
+Neoenergia,2023,DA-II,DA2_lcoe,C,,,,,,,,,,1,0.25,GRI + SASB IF-EU + normas setoriais EU,https://claude.ai/chat/f3b16934-5c4a-42e6-a7cf-35b5ef553473
+Neoenergia,2023,DA-II,DA2_decisao_multicriterio,Q,,,,,,,,,,1,0.25,GRI + SASB IF-EU + normas setoriais EU,https://claude.ai/chat/f3b16934-5c4a-42e6-a7cf-35b5ef553473
+Neoenergia,2023,DA-III,DA3_horas_treinamento,C,,,,,,,,,,2,0.75,GRI + SASB IF-EU + normas setoriais EU,https://claude.ai/chat/f3b16934-5c4a-42e6-a7cf-35b5ef553473
+Neoenergia,2023,DA-III,DA3_taxa_acidentes,C,,,,,,,,,,2,0.75,GRI + SASB IF-EU + normas setoriais EU,https://claude.ai/chat/f3b16934-5c4a-42e6-a7cf-35b5ef553473
+Neoenergia,2023,DA-III,DA3_empregos_locais,C,,,,,,,,,,2,0.75,GRI + SASB IF-EU + normas setoriais EU,https://claude.ai/chat/f3b16934-5c4a-42e6-a7cf-35b5ef553473
+Neoenergia,2023,DA-III,DA3_consulta_comunitaria,Q,,,,,,,,,,2,0.75,GRI + SASB IF-EU + normas setoriais EU,https://claude.ai/chat/f3b16934-5c4a-42e6-a7cf-35b5ef553473
+Neoenergia,2023,DA-IV,DA4_digital_twin,Q,,,,,,,,,,2,0.75,GRI + SASB IF-EU + normas setoriais EU,https://claude.ai/chat/f3b16934-5c4a-42e6-a7cf-35b5ef553473
+Neoenergia,2023,DA-IV,DA4_telemedicao_automacao,C,,,,,,,,,,2,0.75,GRI + SASB IF-EU + normas setoriais EU,https://claude.ai/chat/f3b16934-5c4a-42e6-a7cf-35b5ef553473
+Neoenergia,2023,DA-IV,DA4_ia_preditiva,Q,,,,,,,,,,2,0.75,GRI + SASB IF-EU + normas setoriais EU,https://claude.ai/chat/f3b16934-5c4a-42e6-a7cf-35b5ef553473
+Neoenergia,2023,DA-IV,DA4_ciberseguranca,C,,,,,,,,,,2,0.75,GRI + SASB IF-EU + normas setoriais EU,https://claude.ai/chat/f3b16934-5c4a-42e6-a7cf-35b5ef553473
+Neoenergia,2023,DA-V,DA5_emissoes_ghg,C,,,,,,,,,,2,0.75,GRI + SASB IF-EU + normas setoriais EU,https://claude.ai/chat/f3b16934-5c4a-42e6-a7cf-35b5ef553473
+Neoenergia,2023,DA-V,DA5_agua,C,,,,,,,,,,2,0.75,GRI + SASB IF-EU + normas setoriais EU,https://claude.ai/chat/f3b16934-5c4a-42e6-a7cf-35b5ef553473
+Neoenergia,2023,DA-V,DA5_residuos_reciclados,C,,,,,,,,,,2,0.75,GRI + SASB IF-EU + normas setoriais EU,https://claude.ai/chat/f3b16934-5c4a-42e6-a7cf-35b5ef553473
+Neoenergia,2023,DA-V,DA5_meta_neutralidade,C,,,,,,,,,,2,0.75,GRI + SASB IF-EU + normas setoriais EU,https://claude.ai/chat/f3b16934-5c4a-42e6-a7cf-35b5ef553473
+Neoenergia,2023,DA-VI,DA6_incentivos,C,,,,,,,,,,2,0.6667,GRI + SASB IF-EU + normas setoriais EU,https://claude.ai/chat/f3b16934-5c4a-42e6-a7cf-35b5ef553473
+Neoenergia,2023,DA-VI,DA6_parcerias,C,,,,,,,,,,2,0.6667,GRI + SASB IF-EU + normas setoriais EU,https://claude.ai/chat/f3b16934-5c4a-42e6-a7cf-35b5ef553473
+Neoenergia,2023,DA-VI,DA6_barreiras_regulatorias,Q,,,,,,,,,,2,0.6667,GRI + SASB IF-EU + normas setoriais EU,https://claude.ai/chat/f3b16934-5c4a-42e6-a7cf-35b5ef553473
+Neoenergia,2023,DA-VI,DA6_investimento_pd,C,,,,,,,,,,2,0.6667,GRI + SASB IF-EU + normas setoriais EU,https://claude.ai/chat/f3b16934-5c4a-42e6-a7cf-35b5ef553473
+Neoenergia,2024,DA-I,DA1_planos_contingencia,Q,,,,,,,,,,1,0.75,Relato de informação não financeira / GRI + SASB + ODS,https://claude.ai/chat/349caa8a-58d4-49d2-9566-8869dc8a5c24
+Neoenergia,2024,DA-I,DA1_pct_renovavel,C,,,,,,,,,,1,0.75,Relato de informação não financeira / GRI + SASB + ODS,https://claude.ai/chat/349caa8a-58d4-49d2-9566-8869dc8a5c24
+Neoenergia,2024,DA-I,DA1_armazenamento,C,,,,,,,,,,1,0.75,Relato de informação não financeira / GRI + SASB + ODS,https://claude.ai/chat/349caa8a-58d4-49d2-9566-8869dc8a5c24
+Neoenergia,2024,DA-I,DA1_disponibilidade,C,,,,,,,,,,1,0.75,Relato de informação não financeira / GRI + SASB + ODS,https://claude.ai/chat/349caa8a-58d4-49d2-9566-8869dc8a5c24
+Neoenergia,2024,DA-II,DA2_capex,C,,,,,,,,,,1,0.75,Relato de informação não financeira / GRI + SASB + ODS,https://claude.ai/chat/349caa8a-58d4-49d2-9566-8869dc8a5c24
+Neoenergia,2024,DA-II,DA2_opex,C,,,,,,,,,,1,0.75,Relato de informação não financeira / GRI + SASB + ODS,https://claude.ai/chat/349caa8a-58d4-49d2-9566-8869dc8a5c24
+Neoenergia,2024,DA-II,DA2_lcoe,C,,,,,,,,,,1,0.75,Relato de informação não financeira / GRI + SASB + ODS,https://claude.ai/chat/349caa8a-58d4-49d2-9566-8869dc8a5c24
+Neoenergia,2024,DA-II,DA2_decisao_multicriterio,Q,,,,,,,,,,1,0.75,Relato de informação não financeira / GRI + SASB + ODS,https://claude.ai/chat/349caa8a-58d4-49d2-9566-8869dc8a5c24
+Neoenergia,2024,DA-III,DA3_horas_treinamento,C,,,,,,,,,,2,0.75,Relato de informação não financeira / GRI + SASB + ODS,https://claude.ai/chat/349caa8a-58d4-49d2-9566-8869dc8a5c24
+Neoenergia,2024,DA-III,DA3_taxa_acidentes,C,,,,,,,,,,2,0.75,Relato de informação não financeira / GRI + SASB + ODS,https://claude.ai/chat/349caa8a-58d4-49d2-9566-8869dc8a5c24
+Neoenergia,2024,DA-III,DA3_empregos_locais,C,,,,,,,,,,2,0.75,Relato de informação não financeira / GRI + SASB + ODS,https://claude.ai/chat/349caa8a-58d4-49d2-9566-8869dc8a5c24
+Neoenergia,2024,DA-III,DA3_consulta_comunitaria,Q,,,,,,,,,,2,0.75,Relato de informação não financeira / GRI + SASB + ODS,https://claude.ai/chat/349caa8a-58d4-49d2-9566-8869dc8a5c24
+Neoenergia,2024,DA-IV,DA4_digital_twin,Q,,,,,,,,,,2,1.0,Relato de informação não financeira / GRI + SASB + ODS,https://claude.ai/chat/349caa8a-58d4-49d2-9566-8869dc8a5c24
+Neoenergia,2024,DA-IV,DA4_telemedicao_automacao,C,,,,,,,,,,2,1.0,Relato de informação não financeira / GRI + SASB + ODS,https://claude.ai/chat/349caa8a-58d4-49d2-9566-8869dc8a5c24
+Neoenergia,2024,DA-IV,DA4_ia_preditiva,Q,,,,,,,,,,2,1.0,Relato de informação não financeira / GRI + SASB + ODS,https://claude.ai/chat/349caa8a-58d4-49d2-9566-8869dc8a5c24
+Neoenergia,2024,DA-IV,DA4_ciberseguranca,C,,,,,,,,,,2,1.0,Relato de informação não financeira / GRI + SASB + ODS,https://claude.ai/chat/349caa8a-58d4-49d2-9566-8869dc8a5c24
+Neoenergia,2024,DA-V,DA5_emissoes_ghg,C,,,,,,,,,,2,1.0,Relato de informação não financeira / GRI + SASB + ODS,https://claude.ai/chat/349caa8a-58d4-49d2-9566-8869dc8a5c24
+Neoenergia,2024,DA-V,DA5_agua,C,,,,,,,,,,2,1.0,Relato de informação não financeira / GRI + SASB + ODS,https://claude.ai/chat/349caa8a-58d4-49d2-9566-8869dc8a5c24
+Neoenergia,2024,DA-V,DA5_residuos_reciclados,C,,,,,,,,,,2,1.0,Relato de informação não financeira / GRI + SASB + ODS,https://claude.ai/chat/349caa8a-58d4-49d2-9566-8869dc8a5c24
+Neoenergia,2024,DA-V,DA5_meta_neutralidade,C,,,,,,,,,,2,1.0,Relato de informação não financeira / GRI + SASB + ODS,https://claude.ai/chat/349caa8a-58d4-49d2-9566-8869dc8a5c24
+Neoenergia,2024,DA-VI,DA6_incentivos,C,,,,,,,,,,2,0.6667,Relato de informação não financeira / GRI + SASB + ODS,https://claude.ai/chat/349caa8a-58d4-49d2-9566-8869dc8a5c24
+Neoenergia,2024,DA-VI,DA6_parcerias,C,,,,,,,,,,2,0.6667,Relato de informação não financeira / GRI + SASB + ODS,https://claude.ai/chat/349caa8a-58d4-49d2-9566-8869dc8a5c24
+Neoenergia,2024,DA-VI,DA6_barreiras_regulatorias,Q,,,,,,,,,,2,0.6667,Relato de informação não financeira / GRI + SASB + ODS,https://claude.ai/chat/349caa8a-58d4-49d2-9566-8869dc8a5c24
+Neoenergia,2024,DA-VI,DA6_investimento_pd,C,,,,,,,,,,2,0.6667,Relato de informação não financeira / GRI + SASB + ODS,https://claude.ai/chat/349caa8a-58d4-49d2-9566-8869dc8a5c24
+Neoenergia,2025,DA-I,DA1_planos_contingencia,Q,,,,,,,,,,1,1.0,"GRI, com referências SASB e ODS",https://claude.ai/chat/8144a10c-dee7-4804-bfd9-e5fa54792f5c
+Neoenergia,2025,DA-I,DA1_pct_renovavel,C,,,,,,,,,,1,1.0,"GRI, com referências SASB e ODS",https://claude.ai/chat/8144a10c-dee7-4804-bfd9-e5fa54792f5c
+Neoenergia,2025,DA-I,DA1_armazenamento,C,,,,,,,,,,1,1.0,"GRI, com referências SASB e ODS",https://claude.ai/chat/8144a10c-dee7-4804-bfd9-e5fa54792f5c
+Neoenergia,2025,DA-I,DA1_disponibilidade,C,,,,,,,,,,1,1.0,"GRI, com referências SASB e ODS",https://claude.ai/chat/8144a10c-dee7-4804-bfd9-e5fa54792f5c
+Neoenergia,2025,DA-II,DA2_capex,C,,,,,,,,,,1,0.75,"GRI, com referências SASB e ODS",https://claude.ai/chat/8144a10c-dee7-4804-bfd9-e5fa54792f5c
+Neoenergia,2025,DA-II,DA2_opex,C,,,,,,,,,,1,0.75,"GRI, com referências SASB e ODS",https://claude.ai/chat/8144a10c-dee7-4804-bfd9-e5fa54792f5c
+Neoenergia,2025,DA-II,DA2_lcoe,C,,,,,,,,,,1,0.75,"GRI, com referências SASB e ODS",https://claude.ai/chat/8144a10c-dee7-4804-bfd9-e5fa54792f5c
+Neoenergia,2025,DA-II,DA2_decisao_multicriterio,Q,,,,,,,,,,1,0.75,"GRI, com referências SASB e ODS",https://claude.ai/chat/8144a10c-dee7-4804-bfd9-e5fa54792f5c
+Neoenergia,2025,DA-III,DA3_horas_treinamento,C,,,,,,,,,,2,0.75,"GRI, com referências SASB e ODS",https://claude.ai/chat/8144a10c-dee7-4804-bfd9-e5fa54792f5c
+Neoenergia,2025,DA-III,DA3_taxa_acidentes,C,,,,,,,,,,2,0.75,"GRI, com referências SASB e ODS",https://claude.ai/chat/8144a10c-dee7-4804-bfd9-e5fa54792f5c
+Neoenergia,2025,DA-III,DA3_empregos_locais,C,,,,,,,,,,2,0.75,"GRI, com referências SASB e ODS",https://claude.ai/chat/8144a10c-dee7-4804-bfd9-e5fa54792f5c
+Neoenergia,2025,DA-III,DA3_consulta_comunitaria,Q,,,,,,,,,,2,0.75,"GRI, com referências SASB e ODS",https://claude.ai/chat/8144a10c-dee7-4804-bfd9-e5fa54792f5c
+Neoenergia,2025,DA-IV,DA4_digital_twin,Q,,,,,,,,,,2,0.75,"GRI, com referências SASB e ODS",https://claude.ai/chat/8144a10c-dee7-4804-bfd9-e5fa54792f5c
+Neoenergia,2025,DA-IV,DA4_telemedicao_automacao,C,,,,,,,,,,2,0.75,"GRI, com referências SASB e ODS",https://claude.ai/chat/8144a10c-dee7-4804-bfd9-e5fa54792f5c
+Neoenergia,2025,DA-IV,DA4_ia_preditiva,Q,,,,,,,,,,2,0.75,"GRI, com referências SASB e ODS",https://claude.ai/chat/8144a10c-dee7-4804-bfd9-e5fa54792f5c
+Neoenergia,2025,DA-IV,DA4_ciberseguranca,C,,,,,,,,,,2,0.75,"GRI, com referências SASB e ODS",https://claude.ai/chat/8144a10c-dee7-4804-bfd9-e5fa54792f5c
+Neoenergia,2025,DA-V,DA5_emissoes_ghg,C,,,,,,,,,,2,0.75,"GRI, com referências SASB e ODS",https://claude.ai/chat/8144a10c-dee7-4804-bfd9-e5fa54792f5c
+Neoenergia,2025,DA-V,DA5_agua,C,,,,,,,,,,2,0.75,"GRI, com referências SASB e ODS",https://claude.ai/chat/8144a10c-dee7-4804-bfd9-e5fa54792f5c
+Neoenergia,2025,DA-V,DA5_residuos_reciclados,C,,,,,,,,,,2,0.75,"GRI, com referências SASB e ODS",https://claude.ai/chat/8144a10c-dee7-4804-bfd9-e5fa54792f5c
+Neoenergia,2025,DA-V,DA5_meta_neutralidade,C,,,,,,,,,,2,0.75,"GRI, com referências SASB e ODS",https://claude.ai/chat/8144a10c-dee7-4804-bfd9-e5fa54792f5c
+Neoenergia,2025,DA-VI,DA6_incentivos,C,,,,,,,,,,2,1.0,"GRI, com referências SASB e ODS",https://claude.ai/chat/8144a10c-dee7-4804-bfd9-e5fa54792f5c
+Neoenergia,2025,DA-VI,DA6_parcerias,C,,,,,,,,,,2,1.0,"GRI, com referências SASB e ODS",https://claude.ai/chat/8144a10c-dee7-4804-bfd9-e5fa54792f5c
+Neoenergia,2025,DA-VI,DA6_barreiras_regulatorias,Q,,,,,,,,,,2,1.0,"GRI, com referências SASB e ODS",https://claude.ai/chat/8144a10c-dee7-4804-bfd9-e5fa54792f5c
+Neoenergia,2025,DA-VI,DA6_investimento_pd,C,,,,,,,,,,2,1.0,"GRI, com referências SASB e ODS",https://claude.ai/chat/8144a10c-dee7-4804-bfd9-e5fa54792f5c
+Petrobras,2021,DA-I,DA1_planos_contingencia,Q,,,,,,,,,,1,0.25,GRI Standards (opção Essential),https://claude.ai/chat/ec91ad97-058c-4327-b13b-57b641fe1836
+Petrobras,2021,DA-I,DA1_pct_renovavel,C,,,,,,,,,,1,0.25,GRI Standards (opção Essential),https://claude.ai/chat/ec91ad97-058c-4327-b13b-57b641fe1836
+Petrobras,2021,DA-I,DA1_armazenamento,C,,,,,,,,,,1,0.25,GRI Standards (opção Essential),https://claude.ai/chat/ec91ad97-058c-4327-b13b-57b641fe1836
+Petrobras,2021,DA-I,DA1_disponibilidade,C,,,,,,,,,,1,0.25,GRI Standards (opção Essential),https://claude.ai/chat/ec91ad97-058c-4327-b13b-57b641fe1836
+Petrobras,2021,DA-II,DA2_capex,C,,,,,,,,,,1,0.5,GRI Standards (opção Essential),https://claude.ai/chat/ec91ad97-058c-4327-b13b-57b641fe1836
+Petrobras,2021,DA-II,DA2_opex,C,,,,,,,,,,1,0.5,GRI Standards (opção Essential),https://claude.ai/chat/ec91ad97-058c-4327-b13b-57b641fe1836
+Petrobras,2021,DA-II,DA2_lcoe,C,,,,,,,,,,1,0.5,GRI Standards (opção Essential),https://claude.ai/chat/ec91ad97-058c-4327-b13b-57b641fe1836
+Petrobras,2021,DA-II,DA2_decisao_multicriterio,Q,,,,,,,,,,1,0.5,GRI Standards (opção Essential),https://claude.ai/chat/ec91ad97-058c-4327-b13b-57b641fe1836
+Petrobras,2021,DA-III,DA3_horas_treinamento,C,,,,,,,,,,2,0.75,GRI Standards (opção Essential),https://claude.ai/chat/ec91ad97-058c-4327-b13b-57b641fe1836
+Petrobras,2021,DA-III,DA3_taxa_acidentes,C,,,,,,,,,,2,0.75,GRI Standards (opção Essential),https://claude.ai/chat/ec91ad97-058c-4327-b13b-57b641fe1836
+Petrobras,2021,DA-III,DA3_empregos_locais,C,,,,,,,,,,2,0.75,GRI Standards (opção Essential),https://claude.ai/chat/ec91ad97-058c-4327-b13b-57b641fe1836
+Petrobras,2021,DA-III,DA3_consulta_comunitaria,Q,,,,,,,,,,2,0.75,GRI Standards (opção Essential),https://claude.ai/chat/ec91ad97-058c-4327-b13b-57b641fe1836
+Petrobras,2021,DA-IV,DA4_digital_twin,Q,,,,,,,,,,2,0.75,GRI Standards (opção Essential),https://claude.ai/chat/ec91ad97-058c-4327-b13b-57b641fe1836
+Petrobras,2021,DA-IV,DA4_telemedicao_automacao,C,,,,,,,,,,2,0.75,GRI Standards (opção Essential),https://claude.ai/chat/ec91ad97-058c-4327-b13b-57b641fe1836
+Petrobras,2021,DA-IV,DA4_ia_preditiva,Q,,,,,,,,,,2,0.75,GRI Standards (opção Essential),https://claude.ai/chat/ec91ad97-058c-4327-b13b-57b641fe1836
+Petrobras,2021,DA-IV,DA4_ciberseguranca,C,,,,,,,,,,2,0.75,GRI Standards (opção Essential),https://claude.ai/chat/ec91ad97-058c-4327-b13b-57b641fe1836
+Petrobras,2021,DA-V,DA5_emissoes_ghg,C,,,,,,,,,,2,0.5,GRI Standards (opção Essential),https://claude.ai/chat/ec91ad97-058c-4327-b13b-57b641fe1836
+Petrobras,2021,DA-V,DA5_agua,C,,,,,,,,,,2,0.5,GRI Standards (opção Essential),https://claude.ai/chat/ec91ad97-058c-4327-b13b-57b641fe1836
+Petrobras,2021,DA-V,DA5_residuos_reciclados,C,,,,,,,,,,2,0.5,GRI Standards (opção Essential),https://claude.ai/chat/ec91ad97-058c-4327-b13b-57b641fe1836
+Petrobras,2021,DA-V,DA5_meta_neutralidade,C,,,,,,,,,,2,0.5,GRI Standards (opção Essential),https://claude.ai/chat/ec91ad97-058c-4327-b13b-57b641fe1836
+Petrobras,2021,DA-VI,DA6_incentivos,C,,,,,,,,,,2,0.3333,GRI Standards (opção Essential),https://claude.ai/chat/ec91ad97-058c-4327-b13b-57b641fe1836
+Petrobras,2021,DA-VI,DA6_parcerias,C,,,,,,,,,,2,0.3333,GRI Standards (opção Essential),https://claude.ai/chat/ec91ad97-058c-4327-b13b-57b641fe1836
+Petrobras,2021,DA-VI,DA6_barreiras_regulatorias,Q,,,,,,,,,,2,0.3333,GRI Standards (opção Essential),https://claude.ai/chat/ec91ad97-058c-4327-b13b-57b641fe1836
+Petrobras,2021,DA-VI,DA6_investimento_pd,C,,,,,,,,,,2,0.3333,GRI Standards (opção Essential),https://claude.ai/chat/ec91ad97-058c-4327-b13b-57b641fe1836
+Petrobras,2022,DA-I,DA1_planos_contingencia,Q,,,,,,,,,,1,0.5,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/d2cd2839-4bdb-4bc1-8017-b20470eaf083
+Petrobras,2022,DA-I,DA1_pct_renovavel,C,,,,,,,,,,1,0.5,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/d2cd2839-4bdb-4bc1-8017-b20470eaf083
+Petrobras,2022,DA-I,DA1_armazenamento,C,,,,,,,,,,1,0.5,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/d2cd2839-4bdb-4bc1-8017-b20470eaf083
+Petrobras,2022,DA-I,DA1_disponibilidade,C,,,,,,,,,,1,0.5,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/d2cd2839-4bdb-4bc1-8017-b20470eaf083
+Petrobras,2022,DA-II,DA2_capex,C,,,,,,,,,,1,0.5,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/d2cd2839-4bdb-4bc1-8017-b20470eaf083
+Petrobras,2022,DA-II,DA2_opex,C,,,,,,,,,,1,0.5,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/d2cd2839-4bdb-4bc1-8017-b20470eaf083
+Petrobras,2022,DA-II,DA2_lcoe,C,,,,,,,,,,1,0.5,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/d2cd2839-4bdb-4bc1-8017-b20470eaf083
+Petrobras,2022,DA-II,DA2_decisao_multicriterio,Q,,,,,,,,,,1,0.5,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/d2cd2839-4bdb-4bc1-8017-b20470eaf083
+Petrobras,2022,DA-III,DA3_horas_treinamento,C,,,,,,,,,,2,0.75,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/d2cd2839-4bdb-4bc1-8017-b20470eaf083
+Petrobras,2022,DA-III,DA3_taxa_acidentes,C,,,,,,,,,,2,0.75,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/d2cd2839-4bdb-4bc1-8017-b20470eaf083
+Petrobras,2022,DA-III,DA3_empregos_locais,C,,,,,,,,,,2,0.75,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/d2cd2839-4bdb-4bc1-8017-b20470eaf083
+Petrobras,2022,DA-III,DA3_consulta_comunitaria,Q,,,,,,,,,,2,0.75,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/d2cd2839-4bdb-4bc1-8017-b20470eaf083
+Petrobras,2022,DA-IV,DA4_digital_twin,Q,,,,,,,,,,2,0.5,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/d2cd2839-4bdb-4bc1-8017-b20470eaf083
+Petrobras,2022,DA-IV,DA4_telemedicao_automacao,C,,,,,,,,,,2,0.5,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/d2cd2839-4bdb-4bc1-8017-b20470eaf083
+Petrobras,2022,DA-IV,DA4_ia_preditiva,Q,,,,,,,,,,2,0.5,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/d2cd2839-4bdb-4bc1-8017-b20470eaf083
+Petrobras,2022,DA-IV,DA4_ciberseguranca,C,,,,,,,,,,2,0.5,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/d2cd2839-4bdb-4bc1-8017-b20470eaf083
+Petrobras,2022,DA-V,DA5_emissoes_ghg,C,,,,,,,,,,2,1.0,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/d2cd2839-4bdb-4bc1-8017-b20470eaf083
+Petrobras,2022,DA-V,DA5_agua,C,,,,,,,,,,2,1.0,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/d2cd2839-4bdb-4bc1-8017-b20470eaf083
+Petrobras,2022,DA-V,DA5_residuos_reciclados,C,,,,,,,,,,2,1.0,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/d2cd2839-4bdb-4bc1-8017-b20470eaf083
+Petrobras,2022,DA-V,DA5_meta_neutralidade,C,,,,,,,,,,2,1.0,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/d2cd2839-4bdb-4bc1-8017-b20470eaf083
+Petrobras,2022,DA-VI,DA6_incentivos,C,,,,,,,,,,2,0.6667,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/d2cd2839-4bdb-4bc1-8017-b20470eaf083
+Petrobras,2022,DA-VI,DA6_parcerias,C,,,,,,,,,,2,0.6667,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/d2cd2839-4bdb-4bc1-8017-b20470eaf083
+Petrobras,2022,DA-VI,DA6_barreiras_regulatorias,Q,,,,,,,,,,2,0.6667,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/d2cd2839-4bdb-4bc1-8017-b20470eaf083
+Petrobras,2022,DA-VI,DA6_investimento_pd,C,,,,,,,,,,2,0.6667,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/d2cd2839-4bdb-4bc1-8017-b20470eaf083
+Petrobras,2023,DA-I,DA1_planos_contingencia,Q,,,,,,,,,,1,0.5,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/542b64b5-6665-4506-a714-e4676d7a7615
+Petrobras,2023,DA-I,DA1_pct_renovavel,C,,,,,,,,,,1,0.5,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/542b64b5-6665-4506-a714-e4676d7a7615
+Petrobras,2023,DA-I,DA1_armazenamento,C,,,,,,,,,,1,0.5,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/542b64b5-6665-4506-a714-e4676d7a7615
+Petrobras,2023,DA-I,DA1_disponibilidade,C,,,,,,,,,,1,0.5,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/542b64b5-6665-4506-a714-e4676d7a7615
+Petrobras,2023,DA-II,DA2_capex,C,,,,,,,,,,1,0.5,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/542b64b5-6665-4506-a714-e4676d7a7615
+Petrobras,2023,DA-II,DA2_opex,C,,,,,,,,,,1,0.5,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/542b64b5-6665-4506-a714-e4676d7a7615
+Petrobras,2023,DA-II,DA2_lcoe,C,,,,,,,,,,1,0.5,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/542b64b5-6665-4506-a714-e4676d7a7615
+Petrobras,2023,DA-II,DA2_decisao_multicriterio,Q,,,,,,,,,,1,0.5,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/542b64b5-6665-4506-a714-e4676d7a7615
+Petrobras,2023,DA-III,DA3_horas_treinamento,C,,,,,,,,,,2,1.0,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/542b64b5-6665-4506-a714-e4676d7a7615
+Petrobras,2023,DA-III,DA3_taxa_acidentes,C,,,,,,,,,,2,1.0,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/542b64b5-6665-4506-a714-e4676d7a7615
+Petrobras,2023,DA-III,DA3_empregos_locais,C,,,,,,,,,,2,1.0,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/542b64b5-6665-4506-a714-e4676d7a7615
+Petrobras,2023,DA-III,DA3_consulta_comunitaria,Q,,,,,,,,,,2,1.0,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/542b64b5-6665-4506-a714-e4676d7a7615
+Petrobras,2023,DA-IV,DA4_digital_twin,Q,,,,,,,,,,2,0.25,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/542b64b5-6665-4506-a714-e4676d7a7615
+Petrobras,2023,DA-IV,DA4_telemedicao_automacao,C,,,,,,,,,,2,0.25,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/542b64b5-6665-4506-a714-e4676d7a7615
+Petrobras,2023,DA-IV,DA4_ia_preditiva,Q,,,,,,,,,,2,0.25,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/542b64b5-6665-4506-a714-e4676d7a7615
+Petrobras,2023,DA-IV,DA4_ciberseguranca,C,,,,,,,,,,2,0.25,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/542b64b5-6665-4506-a714-e4676d7a7615
+Petrobras,2023,DA-V,DA5_emissoes_ghg,C,,,,,,,,,,2,0.75,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/542b64b5-6665-4506-a714-e4676d7a7615
+Petrobras,2023,DA-V,DA5_agua,C,,,,,,,,,,2,0.75,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/542b64b5-6665-4506-a714-e4676d7a7615
+Petrobras,2023,DA-V,DA5_residuos_reciclados,C,,,,,,,,,,2,0.75,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/542b64b5-6665-4506-a714-e4676d7a7615
+Petrobras,2023,DA-V,DA5_meta_neutralidade,C,,,,,,,,,,2,0.75,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/542b64b5-6665-4506-a714-e4676d7a7615
+Petrobras,2023,DA-VI,DA6_incentivos,C,,,,,,,,,,2,1.0,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/542b64b5-6665-4506-a714-e4676d7a7615
+Petrobras,2023,DA-VI,DA6_parcerias,C,,,,,,,,,,2,1.0,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/542b64b5-6665-4506-a714-e4676d7a7615
+Petrobras,2023,DA-VI,DA6_barreiras_regulatorias,Q,,,,,,,,,,2,1.0,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/542b64b5-6665-4506-a714-e4676d7a7615
+Petrobras,2023,DA-VI,DA6_investimento_pd,C,,,,,,,,,,2,1.0,GRI Standards 2021 + SASB + Ipieca,https://claude.ai/chat/542b64b5-6665-4506-a714-e4676d7a7615
+Petrobras,2024,DA-I,DA1_planos_contingencia,Q,,,,,,,,,,1,0.25,GRI Standards + SASB,https://claude.ai/chat/564fa464-6f39-4d0e-a88b-bf2db457e03c
+Petrobras,2024,DA-I,DA1_pct_renovavel,C,,,,,,,,,,1,0.25,GRI Standards + SASB,https://claude.ai/chat/564fa464-6f39-4d0e-a88b-bf2db457e03c
+Petrobras,2024,DA-I,DA1_armazenamento,C,,,,,,,,,,1,0.25,GRI Standards + SASB,https://claude.ai/chat/564fa464-6f39-4d0e-a88b-bf2db457e03c
+Petrobras,2024,DA-I,DA1_disponibilidade,C,,,,,,,,,,1,0.25,GRI Standards + SASB,https://claude.ai/chat/564fa464-6f39-4d0e-a88b-bf2db457e03c
+Petrobras,2024,DA-II,DA2_capex,C,,,,,,,,,,1,0.5,GRI Standards + SASB,https://claude.ai/chat/564fa464-6f39-4d0e-a88b-bf2db457e03c
+Petrobras,2024,DA-II,DA2_opex,C,,,,,,,,,,1,0.5,GRI Standards + SASB,https://claude.ai/chat/564fa464-6f39-4d0e-a88b-bf2db457e03c
+Petrobras,2024,DA-II,DA2_lcoe,C,,,,,,,,,,1,0.5,GRI Standards + SASB,https://claude.ai/chat/564fa464-6f39-4d0e-a88b-bf2db457e03c
+Petrobras,2024,DA-II,DA2_decisao_multicriterio,Q,,,,,,,,,,1,0.5,GRI Standards + SASB,https://claude.ai/chat/564fa464-6f39-4d0e-a88b-bf2db457e03c
+Petrobras,2024,DA-III,DA3_horas_treinamento,C,,,,,,,,,,2,1.0,GRI Standards + SASB,https://claude.ai/chat/564fa464-6f39-4d0e-a88b-bf2db457e03c
+Petrobras,2024,DA-III,DA3_taxa_acidentes,C,,,,,,,,,,2,1.0,GRI Standards + SASB,https://claude.ai/chat/564fa464-6f39-4d0e-a88b-bf2db457e03c
+Petrobras,2024,DA-III,DA3_empregos_locais,C,,,,,,,,,,2,1.0,GRI Standards + SASB,https://claude.ai/chat/564fa464-6f39-4d0e-a88b-bf2db457e03c
+Petrobras,2024,DA-III,DA3_consulta_comunitaria,Q,,,,,,,,,,2,1.0,GRI Standards + SASB,https://claude.ai/chat/564fa464-6f39-4d0e-a88b-bf2db457e03c
+Petrobras,2024,DA-IV,DA4_digital_twin,Q,,,,,,,,,,2,0.75,GRI Standards + SASB,https://claude.ai/chat/564fa464-6f39-4d0e-a88b-bf2db457e03c
+Petrobras,2024,DA-IV,DA4_telemedicao_automacao,C,,,,,,,,,,2,0.75,GRI Standards + SASB,https://claude.ai/chat/564fa464-6f39-4d0e-a88b-bf2db457e03c
+Petrobras,2024,DA-IV,DA4_ia_preditiva,Q,,,,,,,,,,2,0.75,GRI Standards + SASB,https://claude.ai/chat/564fa464-6f39-4d0e-a88b-bf2db457e03c
+Petrobras,2024,DA-IV,DA4_ciberseguranca,C,,,,,,,,,,2,0.75,GRI Standards + SASB,https://claude.ai/chat/564fa464-6f39-4d0e-a88b-bf2db457e03c
+Petrobras,2024,DA-V,DA5_emissoes_ghg,C,,,,,,,,,,2,1.0,GRI Standards + SASB,https://claude.ai/chat/564fa464-6f39-4d0e-a88b-bf2db457e03c
+Petrobras,2024,DA-V,DA5_agua,C,,,,,,,,,,2,1.0,GRI Standards + SASB,https://claude.ai/chat/564fa464-6f39-4d0e-a88b-bf2db457e03c
+Petrobras,2024,DA-V,DA5_residuos_reciclados,C,,,,,,,,,,2,1.0,GRI Standards + SASB,https://claude.ai/chat/564fa464-6f39-4d0e-a88b-bf2db457e03c
+Petrobras,2024,DA-V,DA5_meta_neutralidade,C,,,,,,,,,,2,1.0,GRI Standards + SASB,https://claude.ai/chat/564fa464-6f39-4d0e-a88b-bf2db457e03c
+Petrobras,2024,DA-VI,DA6_incentivos,C,,,,,,,,,,2,1.0,GRI Standards + SASB,https://claude.ai/chat/564fa464-6f39-4d0e-a88b-bf2db457e03c
+Petrobras,2024,DA-VI,DA6_parcerias,C,,,,,,,,,,2,1.0,GRI Standards + SASB,https://claude.ai/chat/564fa464-6f39-4d0e-a88b-bf2db457e03c
+Petrobras,2024,DA-VI,DA6_barreiras_regulatorias,Q,,,,,,,,,,2,1.0,GRI Standards + SASB,https://claude.ai/chat/564fa464-6f39-4d0e-a88b-bf2db457e03c
+Petrobras,2024,DA-VI,DA6_investimento_pd,C,,,,,,,,,,2,1.0,GRI Standards + SASB,https://claude.ai/chat/564fa464-6f39-4d0e-a88b-bf2db457e03c
+Petrobras,2025,DA-I,DA1_planos_contingencia,Q,,,,,,,,,,1,0.5,GRI Standards + SASB (versão padronizada),https://claude.ai/chat/effd7cf7-eebb-44ca-9883-63288d8021ed
+Petrobras,2025,DA-I,DA1_pct_renovavel,C,,,,,,,,,,1,0.5,GRI Standards + SASB (versão padronizada),https://claude.ai/chat/effd7cf7-eebb-44ca-9883-63288d8021ed
+Petrobras,2025,DA-I,DA1_armazenamento,C,,,,,,,,,,1,0.5,GRI Standards + SASB (versão padronizada),https://claude.ai/chat/effd7cf7-eebb-44ca-9883-63288d8021ed
+Petrobras,2025,DA-I,DA1_disponibilidade,C,,,,,,,,,,1,0.5,GRI Standards + SASB (versão padronizada),https://claude.ai/chat/effd7cf7-eebb-44ca-9883-63288d8021ed
+Petrobras,2025,DA-II,DA2_capex,C,,,,,,,,,,1,0.5,GRI Standards + SASB (versão padronizada),https://claude.ai/chat/effd7cf7-eebb-44ca-9883-63288d8021ed
+Petrobras,2025,DA-II,DA2_opex,C,,,,,,,,,,1,0.5,GRI Standards + SASB (versão padronizada),https://claude.ai/chat/effd7cf7-eebb-44ca-9883-63288d8021ed
+Petrobras,2025,DA-II,DA2_lcoe,C,,,,,,,,,,1,0.5,GRI Standards + SASB (versão padronizada),https://claude.ai/chat/effd7cf7-eebb-44ca-9883-63288d8021ed
+Petrobras,2025,DA-II,DA2_decisao_multicriterio,Q,,,,,,,,,,1,0.5,GRI Standards + SASB (versão padronizada),https://claude.ai/chat/effd7cf7-eebb-44ca-9883-63288d8021ed
+Petrobras,2025,DA-III,DA3_horas_treinamento,C,,,,,,,,,,2,1.0,GRI Standards + SASB (versão padronizada),https://claude.ai/chat/effd7cf7-eebb-44ca-9883-63288d8021ed
+Petrobras,2025,DA-III,DA3_taxa_acidentes,C,,,,,,,,,,2,1.0,GRI Standards + SASB (versão padronizada),https://claude.ai/chat/effd7cf7-eebb-44ca-9883-63288d8021ed
+Petrobras,2025,DA-III,DA3_empregos_locais,C,,,,,,,,,,2,1.0,GRI Standards + SASB (versão padronizada),https://claude.ai/chat/effd7cf7-eebb-44ca-9883-63288d8021ed
+Petrobras,2025,DA-III,DA3_consulta_comunitaria,Q,,,,,,,,,,2,1.0,GRI Standards + SASB (versão padronizada),https://claude.ai/chat/effd7cf7-eebb-44ca-9883-63288d8021ed
+Petrobras,2025,DA-IV,DA4_digital_twin,Q,,,,,,,,,,2,1.0,GRI Standards + SASB (versão padronizada),https://claude.ai/chat/effd7cf7-eebb-44ca-9883-63288d8021ed
+Petrobras,2025,DA-IV,DA4_telemedicao_automacao,C,,,,,,,,,,2,1.0,GRI Standards + SASB (versão padronizada),https://claude.ai/chat/effd7cf7-eebb-44ca-9883-63288d8021ed
+Petrobras,2025,DA-IV,DA4_ia_preditiva,Q,,,,,,,,,,2,1.0,GRI Standards + SASB (versão padronizada),https://claude.ai/chat/effd7cf7-eebb-44ca-9883-63288d8021ed
+Petrobras,2025,DA-IV,DA4_ciberseguranca,C,,,,,,,,,,2,1.0,GRI Standards + SASB (versão padronizada),https://claude.ai/chat/effd7cf7-eebb-44ca-9883-63288d8021ed
+Petrobras,2025,DA-V,DA5_emissoes_ghg,C,,,,,,,,,,2,1.0,GRI Standards + SASB (versão padronizada),https://claude.ai/chat/effd7cf7-eebb-44ca-9883-63288d8021ed
+Petrobras,2025,DA-V,DA5_agua,C,,,,,,,,,,2,1.0,GRI Standards + SASB (versão padronizada),https://claude.ai/chat/effd7cf7-eebb-44ca-9883-63288d8021ed
+Petrobras,2025,DA-V,DA5_residuos_reciclados,C,,,,,,,,,,2,1.0,GRI Standards + SASB (versão padronizada),https://claude.ai/chat/effd7cf7-eebb-44ca-9883-63288d8021ed
+Petrobras,2025,DA-V,DA5_meta_neutralidade,C,,,,,,,,,,2,1.0,GRI Standards + SASB (versão padronizada),https://claude.ai/chat/effd7cf7-eebb-44ca-9883-63288d8021ed
+Petrobras,2025,DA-VI,DA6_incentivos,C,,,,,,,,,,2,0.6667,GRI Standards + SASB (versão padronizada),https://claude.ai/chat/effd7cf7-eebb-44ca-9883-63288d8021ed
+Petrobras,2025,DA-VI,DA6_parcerias,C,,,,,,,,,,2,0.6667,GRI Standards + SASB (versão padronizada),https://claude.ai/chat/effd7cf7-eebb-44ca-9883-63288d8021ed
+Petrobras,2025,DA-VI,DA6_barreiras_regulatorias,Q,,,,,,,,,,2,0.6667,GRI Standards + SASB (versão padronizada),https://claude.ai/chat/effd7cf7-eebb-44ca-9883-63288d8021ed
+Petrobras,2025,DA-VI,DA6_investimento_pd,C,,,,,,,,,,2,0.6667,GRI Standards + SASB (versão padronizada),https://claude.ai/chat/effd7cf7-eebb-44ca-9883-63288d8021ed

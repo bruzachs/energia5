@@ -41,6 +41,13 @@ Correções já feitas na auditoria de 06/10/2026 (detalhes em `docs/auditoria_m
 
 Ambas serão tratadas no codebook v1.
 
+## Código
+
+- `src/data.py`: carga e validação da matriz v0.
+- `src/mcdm.py`: TOPSIS crisp (normalização vetorial ou min-max, pesos e critérios de custo).
+- `src/evidence.py`: validação e agregação da base longa de evidência v1 (`data/processed/matriz_maturidade_v1_longa.csv`, 600 linhas = 25 relatórios x 24 indicadores, a preencher).
+- `notebooks/00_inicio.ipynb` e `notebooks/01_topsis_baseline.ipynb`: análise inicial e ranking v0.1 (`data/processed/ranking_v0.csv`).
+
 ## Roteiro
 
 1. Codebook de indicadores (`docs/codebook_v1.xlsx`, rascunho v1 com 24 indicadores, 4 por DA).
