@@ -2,7 +2,7 @@ empresa,ano,padrao_relatorio,DA_I,DA_II,DA_III,DA_IV,DA_V,DA_VI,observacoes
 Energisa,2021,GRI + SASB + COP Pacto Global,0.75,0.0,1.0,0.75,0.75,1.0,Dados completos.
 Energisa,2022,Relato integrado com diretrizes GRI; verificação KPMG,0.75,0.25,0.75,0.5,0.75,1.0,Dados completos.
 Energisa,2023,GRI Standards + GRI 1 (2021); Selo Ouro FGV,0.5,0.5,0.75,0.75,0.5,1.0,Dados completos (maturidade geral ~67%).
-Energisa,2024,GRI Standards 2021,0.5,0.25,0.75,0.75,0.25,0.75,DA-VI estimado por consistência aritmética a partir do total geral de 54% (13/24) declarado no chat; demais dimensões confirmadas diretamente.
+Energisa,2024,GRI Standards 2021,0.5,0.25,0.75,0.75,0.25,1.0,"DA-VI corrigido de 0,75 para 1,00 (06/10/2026): análise original registra 3 de 3 indicadores; o 0,75 vinha de estimativa por diferença com denominador errado (24 em vez de 23)."
 Energisa,2025,GRI Standards 2021; verificação SGS Brasil (ISAE 3000),0.5,0.25,0.75,0.5,0.75,1.0,Dados completos.
 ENGIE Brasil,2021,GRI (opção Essential); verificação BVQI,0.75,0.5,0.75,0.25,1.0,0.667,Dados completos.
 ENGIE Brasil,2022,GRI + SASB + TCFD,0.75,0.25,0.75,0.75,1.0,0.67,Dados completos.

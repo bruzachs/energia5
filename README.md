@@ -34,7 +34,10 @@ Nenhum arquivo externo é necessário: os dados usados pelo notebook inicial est
 
 Limitações conhecidas da v0:
 - as seis DAs não têm o mesmo número de indicadores, então os percentuais não são comparáveis entre dimensões (por exemplo, DA-VI usa denominador 3);
-- algumas células foram estimadas por consistência aritmética, marcadas na coluna `observacoes`.
+- algumas células foram estimadas por consistência aritmética, marcadas na coluna `observacoes`;
+- os critérios de extração variaram entre relatórios (por exemplo, percentual de resíduos reciclados calculado a partir de dados brutos em um ano e marcado como não reportado em outro), o que cria variações artificiais, como a da Neoenergia entre 2022 e 2023.
+
+Correção já feita: Energisa 2024, DA-VI de 0,75 para 1,00 (a dimensão tem 3 indicadores, então 0,75 era impossível).
 
 Ambas serão tratadas no codebook v1.
 
